@@ -123,7 +123,7 @@
 				<div class="row text-white">
 					<div class="col-2 col-xs-6" data-aos="flip-right" v-for="item in furnitureStore">
 						<div class="bg-white store">
-							<img class="b-stroe" :src="item.src" width="200" height="60" :alt="item.name" srcset="" />
+							<img class="b-stroe" :src="item.src" height="60" :alt="item.name" srcset="" />
 							<span>{{ item.name }}</span>
 						</div>
 					</div>
@@ -190,21 +190,21 @@ const productData = [
 		data: [
 			{
 				title: "营运宝",
-				path: "/yyb",
+				path: "/product/yyb",
 				desc: "规范化管理",
 				desc2: "日常经营，管控，提升商户能力",
 				icon: "/img/product/yyb.png",
 			},
 			{
 				title: "评价宝",
-				path: "/pjb",
+				path: "/product/pjb",
 				desc: "多维度综合考核,星级评定",
 				desc2: "数据化更客观，提升消费者体验",
 				icon: "/img/product/pjb.png",
 			},
 			{
 				title: "合同宝",
-				path: "/htb",
+				path: "/product/htb",
 				desc: "主营收入管控,自动计算租金费用",
 				desc2: "展帐单收费准确、及时、便捷",
 				icon: "/img/product/htb.png",
@@ -216,14 +216,14 @@ const productData = [
 		data: [
 			{
 				title: "家居驾驶舱",
-				path: "/jsc",
+				path: "/product/jsc",
 				desc: "实时监控",
 				desc2: "图表展示卖场经营数据",
 				icon: "/img/product/jsc.png",
 			},
 			{
 				title: "数据大屏",
-				path: "/sjdp",
+				path: "/product/sjdp",
 				desc: "可视化展示",
 				desc2: "智能分析,趋势预测,决策支持",
 				icon: "/img/product/sjdp.png",
@@ -243,45 +243,45 @@ const industryData = [
 		data: [
 			{
 				title: "只要数据不要钱？3.0模式才是卖场收银的未来！",
-				icon: "/img/hygd/3.0.png",
+				icon: "/img/hygd/3.0.jpg",
 				path: "/article/hygd/threecash",
 				time: "2020-04-09",
-				class: "家居卖场",
+				class: "今日家居",
 			},
 			{
-				title: "只要数据不要钱？3.0模式才是卖场收银的未来！",
-				icon: "/img/hygd/3.0.png",
-				path: "/sdb",
+				title: "浅论家居卖场数字化平台建设 | 内有福利！",
+				icon: "/img/hygd/szh.jpg",
+				path: "/article/hygd/digitalization",
 				time: "2020-04-09",
-				class: "家居卖场",
+				class: "家居市场",
 			},
 			{
-				title: "只要数据不要钱？3.0模式才是卖场收银的未来！",
-				icon: "/img/hygd/3.0.png",
-				path: "/sdb",
-				time: "2020-04-09",
-				class: "家居卖场",
+				title: "如何预防和应对疫情结束后可能出现的商户逃场问题？",
+				icon: "/img/hygd/shtc.jpg",
+				path: "/article/hygd/prevent",
+				time: "2020-02-26",
+				class: "家居市场",
 			},
 			{
-				title: "只要数据不要钱？3.0模式才是卖场收银的未来！",
-				icon: "/img/hygd/3.0.png",
-				path: "/sdb",
-				time: "2020-04-09",
-				class: "家居卖场",
+				title: "新冠疫情对2020年家居卖场经营情况影响",
+				icon: "/img/hygd/dy.jpg",
+				path: "/article/hygd/survey",
+				time: "2020-02-26",
+				class: "市场调研",
 			},
 			{
-				title: "只要数据不要钱？3.0模式才是卖场收银的未来！",
-				icon: "/img/hygd/3.0.png",
-				path: "/sdb",
-				time: "2020-04-09",
-				class: "家居卖场",
+				title: "头条丨家居卖场的统一收银模式到底可不可行？",
+				icon: "/img/hygd/tysy.jpg",
+				path: "/article/hygd/unicash",
+				time: "2015-11-02",
+				class: "家居主流",
 			},
 			{
-				title: "只要数据不要钱？3.0模式才是卖场收银的未来！",
-				icon: "/img/hygd/3.0.png",
-				path: "/sdb",
-				time: "2020-04-09",
-				class: "家居卖场",
+				title: "家居卖场为什么要统一收银，核心问题是这个！",
+				icon: "/img/hygd/tysy.jpg",
+				path: "/article/hygd/whyunicashier",
+				time: "2018-06-06",
+				class: "家居微新闻",
 			},
 		],
 	},
@@ -640,10 +640,8 @@ onMounted(() => {
 });
 
 const customScroll = (id, block = "center") => {
-	var target = document.getElementById(id);
-	target.scrollIntoView({
-		behavior: "smooth",
-		block,
-	});
+	const target = document.getElementById(id);
+	if (!target) return;
+	target.scrollIntoView({ behavior: "smooth", block });
 };
 </script>

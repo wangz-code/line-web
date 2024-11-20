@@ -118,7 +118,7 @@ const navList = [
 		childen: [
 			{
 				name: "会员宝",
-				href: "",
+				href: "/product/hyb",
 			},
 			{
 				name: "收银宝",
@@ -126,7 +126,7 @@ const navList = [
 			},
 			{
 				name: "晒单宝",
-				href: "",
+				href: "/product/sdb",
 			},
 		],
 	},
@@ -135,15 +135,15 @@ const navList = [
 		childen: [
 			{
 				name: "营运宝",
-				href: "",
+				href: "/product/yyb",
 			},
 			{
 				name: "评价宝",
-				href: "",
+				href: "/product/pjb",
 			},
 			{
 				name: "合同宝",
-				href: "",
+				href: "/product/htb",
 			},
 		],
 	},
@@ -152,11 +152,11 @@ const navList = [
 		childen: [
 			{
 				name: "家居驾驶舱",
-				href: "",
+				href: "/product/jsc",
 			},
 			{
 				name: "数据大屏",
-				href: "",
+				href: "/product/sjdp",
 			},
 		],
 	},
