@@ -1,0 +1,19 @@
+/* 3D Hover */
+.transition-3d-hover {
+	transition: all 0.2s ease-in-out;
+}
+
+.transition-3d-hover:hover,
+.transition-3d-hover:focus {
+	-webkit-transform: translateY(-3px);
+	transform: translateY(-3px);
+}
+
+.seo-text {
+	color: transparent;
+	height: 1em;
+	white-space: nowrap;
+	width: 100%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
