@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "LineOfficeWeb",
+            "port": "3004",
+            "script": "./.output/server/index.mjs"
+        }
+    ]
+}

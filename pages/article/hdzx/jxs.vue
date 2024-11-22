@@ -1,0 +1,1059 @@
+<template>
+	<Head>
+		<Title>「后疫情时代经销商发展之道——积极应势、主动迎变，才是王道！</Title>
+		<Meta name="description" content="后疫情时代经销商发展之道——积极应势、主动迎变，才是王道！" />
+		<Meta name="keywords" content="后疫情时代经销商发展之道——积极应势、主动迎变，才是王道！" />
+	</Head>
+	<Container>
+		<div class="activity row flex-center">
+			<div class="col-12 col-lg-8">
+				<h3 class="rich_media_title" id="activity-name">后疫情时代经销商发展之道——积极应势、主动迎变，才是王道！</h3>
+				<div id="meta_content" class="rich_media_meta_list">
+					<span class="rich_media_meta rich_media_meta_nickname" id="profileBt">
+						<a href="javascript:void(0);" class="wx_tap_link js_wx_tap_highlight weui-wa-hotarea" id="js_name"> 家居卖场佰佳联盟 </a>
+					</span>
+					<span id="meta_content_hide_info" class="">
+						<em id="publish_time" class="rich_media_meta rich_media_meta_text">2021年03月23</em>
+					</span>
+				</div>
+				<div id="page-content" class="rich_media_area_primary">
+					<div class="content preview-article-html-container mpa-wx-article-page-original-style">
+						<section data-role="outer" label="Powered by 135editor.com">
+							<section data-role="paragraph">
+								<p style="text-align: left">
+									<img data-ratio="0.22988505747126436" src="https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarWV7h0dKrH5LvmTXfJThEhiaju1IHfwwyutoA26nUTv5JRRdEgqDqeTQEy5r3zGveaQENbDpKFicZg/640?wx_fmt=jpeg" data-type="jpeg" data-w="783" style="box-sizing: border-box; width: 'auto'" />
+								</p>
+								<p style="text-align: center">
+									<strong><span style="font-size: 14px; font-family: 微软雅黑">深圳家具协会X百佳联盟</span></strong>
+								</p>
+								<p style="text-align: center">
+									<strong><span style="color: rgb(0, 112, 192); font-size: 14px; font-family: 微软雅黑" data-darkmode-color="rgb(19, 157, 255)" data-darkmode-original-color="rgb(0, 112, 192)" data-style="color: rgb(0, 112, 192); font-size: 14px; font-family: 微软雅黑;" class="js_darkmode__215">应势·迎变</span></strong>
+								</p>
+								<p style="text-align: center">
+									<strong><span style="color: rgb(0, 112, 192); font-size: 14px; font-family: 微软雅黑" data-darkmode-color="rgb(19, 157, 255)" data-darkmode-original-color="rgb(0, 112, 192)" data-style="color: rgb(0, 112, 192); font-size: 14px; font-family: 微软雅黑;" class="js_darkmode__216">——后疫情时代经销商</span></strong
+									><strong><span style="color: rgb(0, 112, 192); font-size: 14px; font-family: 微软雅黑" data-darkmode-color="rgb(19, 157, 255)" data-darkmode-original-color="rgb(0, 112, 192)" data-style="color: rgb(0, 112, 192); font-size: 14px; font-family: 微软雅黑;" class="js_darkmode__217">“</span></strong
+									><strong><span style="color: rgb(0, 112, 192); font-size: 14px; font-family: 微软雅黑" data-darkmode-color="rgb(19, 157, 255)" data-darkmode-original-color="rgb(0, 112, 192)" data-style="color: rgb(0, 112, 192); font-size: 14px; font-family: 微软雅黑;" class="js_darkmode__218">发展</span></strong
+									><strong><span style="color: rgb(0, 112, 192); font-size: 14px; font-family: 微软雅黑" data-darkmode-color="rgb(19, 157, 255)" data-darkmode-original-color="rgb(0, 112, 192)" data-style="color: rgb(0, 112, 192); font-size: 14px; font-family: 微软雅黑;" class="js_darkmode__219">、破局”</span></strong
+									><strong><span style="color: rgb(0, 112, 192); font-size: 14px; font-family: 微软雅黑" data-darkmode-color="rgb(19, 157, 255)" data-darkmode-original-color="rgb(0, 112, 192)" data-style="color: rgb(0, 112, 192); font-size: 14px; font-family: 微软雅黑;" class="js_darkmode__220">之道</span></strong
+									><strong><span style="color: rgb(0, 112, 192); font-size: 14px; font-family: 微软雅黑" data-darkmode-color="rgb(19, 157, 255)" data-darkmode-original-color="rgb(0, 112, 192)" data-style="color: rgb(0, 112, 192); font-size: 14px; font-family: 微软雅黑;" class="js_darkmode__221">高峰论坛</span></strong>
+								</p>
+								<p style="text-align: center">
+									<strong><span style="font-size: 14px; font-family: 微软雅黑">暨品质五星颁奖典礼</span></strong>
+								</p>
+								<p style="text-align: center">
+									<strong><span style="font-size: 14px; font-family: 微软雅黑">3月18日 圆满结束</span></strong>
+								</p>
+								<p style="text-align: center">
+									<strong><span style="font-size: 14px; font-family: 微软雅黑">干货满满！人气火爆！</span></strong>
+								</p>
+								<p style="text-align: left">
+									<strong
+										><span style="font-size: 14px; font-family: 微软雅黑"><br /></span
+									></strong>
+								</p>
+								<section data-tools="135编辑器" data-id="101745">
+									<section style="margin: 10px auto; text-align: left">
+										<section style="display: flex; justify-content: space-between; align-items: flex-end">
+											<section style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden" data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" data-style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden;" class="js_darkmode__222">
+												<br data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" />
+											</section>
+											<section style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden" data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" data-style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden;" class="js_darkmode__223">
+												<br data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" />
+											</section>
+										</section>
+										<section style="box-sizing: border-box; width: 100%; display: flex; flex: 1; border-left: 1px solid #c1a387; border-right: 1px solid #c1a387" data-width="100%">
+											<section style="flex: 1; box-sizing: border-box; padding: 10px 10px">
+												<section
+													data-brushtype="text"
+													style="background-color: #fbf8f2; text-align: center; line-height: 2em; font-size: 16px; font-weight: bold; color: #a27f61"
+													data-darkmode-bgcolor="rgb(192, 190, 185)"
+													data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+													data-darkmode-color="rgb(126, 98, 74)"
+													data-darkmode-original-color="rgb(162, 127, 97)"
+													data-style="background-color: rgb(251, 248, 242); text-align: center; line-height: 2em; font-size: 16px; font-weight: bold; color: rgb(162, 127, 97);"
+													class="js_darkmode__224"
+												>
+													NO.1 活动背景
+												</section>
+												<section data-autoskip="1" style="padding: 20px 15px; font-size: 14px; color: rgb(162, 127, 97); box-sizing: border-box" data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)">
+													<p data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)">刚刚过去的2020年，疫情肆虐全球，给整个世界带来了前所未有的影响。疫情之后，社会各个方面均发生了巨大的变化，电商行业发展如火如荼，外卖行业也蒸蒸日上，许多新兴行业也应运而生，而传统线下商铺却面临新的挑战，世界范围内逆全球化趋势也日趋明显。可以预计，在未来三到五年之间，也就是“后疫情时代”，中国乃至全世界的经济格局将会发生翻天覆地的变化。</p>
+													<p data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<img
+															data-ratio="0.6666666666666666"
+															src="https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarWV7h0dKrH5LvmTXfJThEhXpACNS20dQCSVPukgeVaEvLeQLqDDgDJfW2KtbK15Jdu6kjeHGfG3A/640?wx_fmt=jpeg"
+															data-type="jpeg"
+															data-w="1080"
+															style="box-sizing: border-box; max-inline-size: 100%; z-index: -1; cursor: pointer; caret-color: rgb(255, 0, 0); background-color: rgb(251, 248, 242); font-family: 微软雅黑, Arial, sans-serif; outline: none 0px !important"
+															data-darkmode-color="rgb(162, 127, 97)"
+															data-darkmode-original-color="rgb(162, 127, 97)"
+															data-darkmode-bgcolor="rgb(192, 190, 185)"
+															data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+															data-style="box-sizing: border-box; max-inline-size: 100%; z-index: -1; cursor: pointer; caret-color: rgb(255, 0, 0); background-color: rgb(251, 248, 242); font-family: 微软雅黑, Arial, sans-serif; outline: none 0px !important;"
+															class="js_darkmode__225"
+														/>
+													</p>
+												</section>
+												<section
+													data-autoskip="1"
+													style="padding: 20px 15px; font-size: 14px; color: rgb(162, 127, 97); background-color: rgb(251, 248, 242); box-sizing: border-box"
+													data-darkmode-bgcolor="rgb(192, 190, 185)"
+													data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+													data-darkmode-color="rgb(126, 98, 74)"
+													data-darkmode-original-color="rgb(162, 127, 97)"
+													data-style="padding: 20px 15px; font-size: 14px; color: rgb(162, 127, 97); background-color: rgb(251, 248, 242); box-sizing: border-box;"
+													class="js_darkmode__226"
+												>
+													<p hm_fix="316:308" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														十九届五中全会提出要加快构建<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">以国内大循环为主体、国内国际双循环相互促进</strong
+														>的新发展格局，也是应对后疫情时代的新举措，可以说，中国社会经济大环境已悄然改变。这就促使各产业必须就环境变化进行转型升级，尤其是实体经济。后疫情时代，各行各业都在寻求新的出路，对于十分注重线下体验的家居行业来说，如何在危机和挑战中理清局势、抓住机遇，尤为重要！家居产业如何转型升级？家具经销商的出路在哪里？……诸多问题值得探讨。
+													</p>
+													<p hm_fix="316:308" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p hm_fix="316:308" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)"
+															><img
+																data-ratio="0.6657407407407407"
+																src="https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarWV7h0dKrH5LvmTXfJThEhSnHCLicOVylqBP0vnTUYoEuBOiauKlIzSZsL8sMVEE4AiaXFLRh6m0U8A/640?wx_fmt=jpeg"
+																data-type="jpeg"
+																data-w="1080"
+																style="box-sizing: border-box; max-inline-size: 100%; z-index: -1; cursor: pointer; text-align: center; caret-color: rgb(255, 0, 0); font-family: 微软雅黑, Arial, sans-serif; outline: none 0px !important"
+																data-darkmode-bgcolor="rgb(192, 190, 185)"
+																data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+																data-darkmode-color="rgb(126, 98, 74)"
+																data-darkmode-original-color="rgb(162, 127, 97)"
+														/></strong>
+													</p>
+													<p hm_fix="316:308" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p hm_fix="316:308" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">深圳市家具行业协会主席侯克鹏在致辞中表示：</strong>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														"<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">企业家精神就在于变革和创新，深圳作为示范区一直都致力于探索和改变，</strong
+														>深圳家具展作为全国乃至全球家具行业的领导型展会，始终以“设计创新、潮流引领、可持续变革”为基本原则，坚持高标准、高品质，已逐渐跻身国际一流水平。做生意，搞经营，都是探索未来，而不是仅做现在，这就是中央赋予深圳的先行示范的意义。深圳是高质量高标准发展的代表，深圳家具最大的竞争力并不仅仅是展会，而是所有的综合服务体系，这个展会就是中国家居行业先行示范的表率！
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">在中国改革开放40周年、全球经济地位跃升的当下，知识产权的保护尤为重要。</strong
+														>深圳家具展作为行业领导型展会，是唯一一个不把设计师当托的展会，真正尊重知识、尊重设计。展会从2012年开始，就致力于构建中国家居行业优品标准、深圳标准，评选出了29家五星企业，160多家深圳标准企业，这不到200家企业未来将改变中国家居行业对品质的要求。企业应当树立起知识产权意识，保护知识产权就是保护自己，如果没有对知识产权的尊重，就意味着扼杀创新！
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">未来的世界，一定是以技术驱动为主导的，家居行业亦然，全场景智能化、万物互联必将成为行业趋势。"</strong>
+													</p>
+													<p hm_fix="316:308" style="text-align: center" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p hm_fix="316:308" style="text-align: justify" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<img
+															data-ratio="0.6657407407407407"
+															src="https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarWV7h0dKrH5LvmTXfJThEhbDVUcw6eSSoNQMkYbhlfQoHywjnp2WypfZnekTagZGUxHlCjnrzuibQ/640?wx_fmt=jpeg"
+															data-type="jpeg"
+															data-w="1080"
+															style="box-sizing: border-box; max-inline-size: 100%; z-index: -1; cursor: pointer; caret-color: rgb(255, 0, 0); font-family: 微软雅黑, Arial, sans-serif; outline: none 0px !important"
+															data-darkmode-bgcolor="rgb(192, 190, 185)"
+															data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+															data-darkmode-color="rgb(126, 98, 74)"
+															data-darkmode-original-color="rgb(162, 127, 97)"
+														/>
+													</p>
+													<p hm_fix="316:308" style="text-align: justify" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p hm_fix="316:308" style="text-align: justify" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">百佳联盟理事单位、无锡华厦家居港常务副总经理 华闽表示：</strong>
+													</p>
+													<p hm_fix="316:308" style="text-align: justify" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p hm_fix="316:308" style="text-align: justify" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">疫情对家居行业冲击不算大,但纵观整个家居市场，“头部效应”明显，亿元级经销商屡见不鲜，中小品牌、经销商逐步被淘汰，疫情加速了市场格局的变化。</p>
+													<p hm_fix="316:308" style="text-align: justify" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p hm_fix="316:308" style="text-align: justify" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">同时，营销模式也在变化，十年前活动和现在的宣传推广大有不同，现在都开始在做小程序、直播等线上渠道，但鉴于行业特殊性，热烈拥抱线上还是有难度，但是不得不拥抱，趋势如此。</p>
+													<p hm_fix="316:308" style="text-align: justify" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p hm_fix="316:308" style="text-align: justify" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">此外，如何实施新的理念？有没有相应的人才？精装修、全屋整装的冲击等等，都是摆在经销商和卖场面前的课题。</p>
+													<p hm_fix="316:308" style="text-align: justify" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p hm_fix="316:308" style="text-align: justify" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<img
+															data-ratio="0.6657407407407407"
+															src="https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarWV7h0dKrH5LvmTXfJThEhXvym5sWPgFVicVpGpNsCsJw9miaEqiaaqLiawBOVQM9A5gFuiaXqic3NNouQ/640?wx_fmt=jpeg"
+															data-type="jpeg"
+															data-w="1080"
+															style="box-sizing: border-box; width: 'auto'"
+															data-darkmode-bgcolor="rgb(192, 190, 185)"
+															data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+															data-darkmode-color="rgb(126, 98, 74)"
+															data-darkmode-original-color="rgb(162, 127, 97)"
+														/>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">百佳联盟发起人、上海澜申科技联合创始人许清有先生表示：</strong>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														行业竞争激烈，打铁还需自身硬，要强化内功。百佳联盟将与经销商一同面对挑战，坚持“<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">资源共享、互相学习、求同存异、共同发展</strong>”，以帮助会员卖场全面提升经营管理水平，构建会员卖场、品牌工厂、经销商的合作共赢。
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														由此，深圳市家具行业协会联合百佳联盟举办此次<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">“应势·迎变——后疫情时代经销商‘发展、破局’之道高峰论坛”暨品质五星颁奖典礼</strong
+														>，邀请行业资深专家分享和解读后疫情时代家居行业未来发展趋势，以期为企业、卖场、经销商带来更为全面的发展思维和方向，为后疫情时代下的家居行业发展奠定强有力的基础。
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<img
+															data-ratio="0.6666666666666666"
+															src="https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarWV7h0dKrH5LvmTXfJThEh1icwfokbjb3ggnWdwmkDlzrCVZ0WDdPnvkXB28brZ0quzbfAxo19Giag/640?wx_fmt=jpeg"
+															data-type="jpeg"
+															data-w="1080"
+															style="box-sizing: border-box; width: 'auto'"
+															data-darkmode-bgcolor="rgb(192, 190, 185)"
+															data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+															data-darkmode-color="rgb(126, 98, 74)"
+															data-darkmode-original-color="rgb(162, 127, 97)"
+														/>
+													</p>
+													<p hm_fix="316:308" style="text-align: justify" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+												</section>
+											</section>
+										</section>
+										<section style="display: flex; justify-content: space-between; align-items: flex-end">
+											<section style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden" data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" data-style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden;" class="js_darkmode__227">
+												<br data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" />
+											</section>
+											<section style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden" data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" data-style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden;" class="js_darkmode__228">
+												<br data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" />
+											</section>
+										</section>
+									</section>
+								</section>
+								<section data-tools="135编辑器" data-id="101745">
+									<section style="margin: 10px auto; text-align: left">
+										<section style="display: flex; justify-content: space-between; align-items: flex-end">
+											<section style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden" data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" data-style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden;" class="js_darkmode__229">
+												<br data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" />
+											</section>
+											<section style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden" data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" data-style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden;" class="js_darkmode__230">
+												<br data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" />
+											</section>
+										</section>
+										<section style="box-sizing: border-box; width: 100%; display: flex; flex: 1; border-left: 1px solid #c1a387; border-right: 1px solid #c1a387" data-width="100%">
+											<section style="flex: 1; box-sizing: border-box; padding: 10px 10px">
+												<section
+													data-brushtype="text"
+													style="background-color: #fbf8f2; text-align: center; line-height: 2em; font-size: 16px; font-weight: bold; color: #a27f61"
+													data-darkmode-bgcolor="rgb(192, 190, 185)"
+													data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+													data-darkmode-color="rgb(126, 98, 74)"
+													data-darkmode-original-color="rgb(162, 127, 97)"
+													data-style="background-color: rgb(251, 248, 242); text-align: center; line-height: 2em; font-size: 16px; font-weight: bold; color: rgb(162, 127, 97);"
+													class="js_darkmode__231"
+												>
+													NO.2 高峰论坛
+												</section>
+												<section data-autoskip="1" style="padding: 20px 15px; font-size: 14px; color: rgb(162, 127, 97); box-sizing: border-box" data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)">
+													<p data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)">本次论坛邀请了7位业内资深经销商代表共议疫情之下的家居行业未来发展之计，7位嘉宾就过去一年疫情之下所取得的骄人成绩以及成功的经验进行干货分享，并针对家具经销商痛点，从创新变革、布局策略、营销方式等角度切入，共同畅谈新时代下家居经销商的转型与创新之道，为观众带来了一场思想上的“饕餮盛宴”。</p>
+													<p data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<img data-ratio="0.6666666666666666" src="https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarWV7h0dKrH5LvmTXfJThEhXpACNS20dQCSVPukgeVaEvLeQLqDDgDJfW2KtbK15Jdu6kjeHGfG3A/640?wx_fmt=jpeg" data-type="jpeg" data-w="1080" style="box-sizing: border-box; width: 'auto'" data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<img data-ratio="0.6657407407407407" src="https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarWV7h0dKrH5LvmTXfJThEhpYY6RxFIbwQ1c6icuP3eMxru19X1HR70yZl8gJgiaFaNhrrKIXLdJMCA/640?wx_fmt=jpeg" data-type="jpeg" data-w="1080" style="box-sizing: border-box; width: 'auto'" data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<img data-ratio="0.6657407407407407" src="https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarWV7h0dKrH5LvmTXfJThEhKIsk41j3G5icfFwFpkGMDczfEMZfvyQmqUUSbebCZ1BbXDDnzl0VhIA/640?wx_fmt=jpeg" data-type="jpeg" data-w="1080" style="box-sizing: border-box; width: 'auto'" data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p style="text-align: center" data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p style="text-align: center" data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)">精彩分享</p>
+													<p style="text-align: center" data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)">▼</p>
+												</section>
+												<section
+													data-autoskip="1"
+													style="padding: 20px 15px; font-size: 14px; color: rgb(162, 127, 97); background-color: rgb(251, 248, 242); box-sizing: border-box"
+													data-darkmode-bgcolor="rgb(192, 190, 185)"
+													data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+													data-darkmode-color="rgb(126, 98, 74)"
+													data-darkmode-original-color="rgb(162, 127, 97)"
+													data-style="padding: 20px 15px; font-size: 14px; color: rgb(162, 127, 97); background-color: rgb(251, 248, 242); box-sizing: border-box;"
+													class="js_darkmode__232"
+												>
+													<p hm_fix="316:308" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)"
+															><span style="caret-color: red; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">徐州升辉国际家居</span
+															><strong style="caret-color: red" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)"
+																><span style="font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">&nbsp;杜宁</span></strong
+															></strong
+														>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)"><span style="font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">慕思寝具经销商</span></strong>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span
+															style="color: rgb(127, 127, 127); background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-size: 13px; font-family: 微软雅黑"
+															data-darkmode-bgcolor="rgb(192, 190, 185)"
+															data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+															data-darkmode-color="rgb(127, 127, 127)"
+															data-darkmode-original-color="rgb(127, 127, 127)"
+															>2017年成立家居用品公司，代理慕思寝具全系产品，当地三大主流商场共计营业<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(127, 127, 127)" data-darkmode-original-color="rgb(127, 127, 127)">面积4200平方</strong
+															>，是徐州本地最知名的软体家居代理经销商。成功联合举办过2018年中国好声音江苏省前十晋级赛，中国好声音2020年全国冠军邀请赛，徐州马拉松特约邀请单位，徐州家居商会会长单位。</span
+														>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">2020疫情之后，大家的出行方式和生活方式改变了。疫情加速了经销商经营模式和方式上的转型，之前我们所有流量引入都是广告型驱入，但是从去年开始我们公司已经转为了普惠型驱入。</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">普惠型驱入，是指以抖音+快手先行，用直播和短视频进行传播获得私域流量，把这些私域流量作为抓手，建立“线下实体店+线上直播”联动的一个综合店铺。</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">我们在抖音的长尾客户只占到30%，而快手的长尾客户占到70%，所以我们在快手上投入很大。这种转型使得我们的投入成本大大降低了。</span>
+													</p>
+													<p hm_fix="316:308" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<img
+															data-ratio="0.6657407407407407"
+															src="https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarWV7h0dKrH5LvmTXfJThEhjJXVFCT7uhzEjOhcianUwaUeWgZTpmlibCc4ibbDHwzeia2FTJQqzKzNYQ/640?wx_fmt=jpeg"
+															data-type="jpeg"
+															data-w="1080"
+															style="box-sizing: border-box; width: 'auto'"
+															data-darkmode-bgcolor="rgb(192, 190, 185)"
+															data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+															data-darkmode-color="rgb(126, 98, 74)"
+															data-darkmode-original-color="rgb(162, 127, 97)"
+														/>
+													</p>
+													<p hm_fix="316:308" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">杭州恒大国际建材家居博览中心&nbsp; 王雅琴</strong>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">左右家私代理商</strong>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="color: #7f7f7f; font-size: 13px" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(127, 127, 127)" data-darkmode-original-color="rgb(127, 127, 127)"
+															>现代理左右沙发、蕾丝床垫、七彩人生儿童家具、蒙哥寝居、麻博士床垫、布兰斯沙发和麦克斯邦意式极简套房等。杭州<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(127, 127, 127)" data-darkmode-original-color="rgb(127, 127, 127)">68家门店</strong>，在当地软体家居经销商当中店面数量最多。2012年接手蕾丝床垫时只有1家门店，现发展为10家店，<strong
+																data-darkmode-bgcolor="rgb(192, 190, 185)"
+																data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+																data-darkmode-color="rgb(127, 127, 127)"
+																data-darkmode-original-color="rgb(127, 127, 127)"
+																>连续7年提货排名第一</strong
+															>；2017年接手左右沙发，当时仅4家店面，现发展为12家店，<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(127, 127, 127)" data-darkmode-original-color="rgb(127, 127, 127)">提货每年增长率最低33%</strong>。</span
+														>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														疫情来了之后，我们意识到，线下的体验不应该是唯一渠道，所以我们又做了线上直播，但是我们家居产业是一个低频、高客单值、高体验度的一个行业，尽管我们在直播中的过程花了很大心思，一心为客户着想策划了许多个不同的套餐，对于新交盘的各个户型，我们也尽量做到了如指掌，但是客户并不会那么轻易地买单，客户只是看一个直播，难以下一个几万到几十万这样一个决策。
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">所以后来我们意识到，直播应当成为一个线上引流的端口，然后再把客户转化成线下，到店里来成交、加转单。</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">直播对于家具产业来说是必须要拥抱的形式，但并不是说线下联盟带单就此结束它的历史使命。</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<img
+															data-ratio="0.6657407407407407"
+															src="https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarWV7h0dKrH5LvmTXfJThEhPz3UvLlDA95OCqSYzV8Md8NvepayolB6jQasACsX75lS5iaxkvse8qw/640?wx_fmt=jpeg"
+															data-type="jpeg"
+															data-w="1080"
+															style="box-sizing: border-box; width: 'auto'"
+															data-darkmode-bgcolor="rgb(192, 190, 185)"
+															data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+															data-darkmode-color="rgb(126, 98, 74)"
+															data-darkmode-original-color="rgb(162, 127, 97)"
+														/>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">上海莘潮家居&nbsp; 王彦升</strong>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">喜临门、梦百合、左右经销商</strong>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="color: #7f7f7f; font-size: 13px" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(127, 127, 127)" data-darkmode-original-color="rgb(127, 127, 127)"
+															>2009年进入家具行业，从业12年，目前经营9家门店。其代理的喜临门“喜眠系列”为“<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(127, 127, 127)" data-darkmode-original-color="rgb(127, 127, 127)">全国第一家”</strong>专卖店。2019年全国年度最佳经销商，上海<strong
+																data-darkmode-bgcolor="rgb(192, 190, 185)"
+																data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+																data-darkmode-color="rgb(127, 127, 127)"
+																data-darkmode-original-color="rgb(127, 127, 127)"
+																>霸主级经销商</strong
+															>。</span
+														>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">经销商承接的压力诸如房租上涨、线上比价、线下服务成本增加、物流等等不断上升，但是毛利点却没有增。</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">以前刚入行的时候，卖场、经销商、品牌方只需要做好自己的事情就行了，但是现在不是这样，现在进行角色转变，三方都要参与到产品的营销、销售等环节上，去积极主动链接上下游。</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">从去年下半年开始，我所在的商场就在帮我们招商、打造团队，商场为什么要这么做呢？因为只有团队稳定，才能盈利稳定；业绩稳定，才能保证经销商愿意在这个商场扎根，商场才能盈利。不止商场，经销商，品牌方都应该要互相为对方考虑和服务，各自放低姿态。</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">作为经销商来说，我们就是希望品牌方和卖场能够为我们提供更多的机会和服务，携手共进。疫情带来了洗牌的机会，我们要不断强化自己，让自己做到地区的佼佼者。</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<img
+															data-ratio="0.6657407407407407"
+															src="https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarWV7h0dKrH5LvmTXfJThEhdft8TIlIdH5Q49h4PAxLuIZXiaWOGc4gSv1uVDGefNph5tnJc4vW7ug/640?wx_fmt=jpeg"
+															data-type="jpeg"
+															data-w="1080"
+															style="box-sizing: border-box; width: 'auto'"
+															data-darkmode-bgcolor="rgb(192, 190, 185)"
+															data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+															data-darkmode-color="rgb(126, 98, 74)"
+															data-darkmode-original-color="rgb(162, 127, 97)"
+														/>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">无锡华厦家居港 许保启</strong>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">美国丝涟床垫无锡、张家港经销商、A.H.BEARD(澳洲比尔德床垫)、“寐”MINE 牌无锡经销商。</strong>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="color: #7f7f7f; font-size: 13px" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(127, 127, 127)" data-darkmode-original-color="rgb(127, 127, 127)"
+															>丝涟中国经销商战略顾问委员会主席，丝涟中国“最佳经销商，丝涟中国“百万俱乐部”成员，丝涟中国“特聘讲师”，A.H.BEARD(澳洲比尔德床垫)品牌全国<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(127, 127, 127)" data-darkmode-original-color="rgb(127, 127, 127)">单店产出比“最高”店</strong>，A.H.BEARD(澳洲比尔德床垫)品牌连续多年业绩<strong
+																data-darkmode-bgcolor="rgb(192, 190, 185)"
+																data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+																data-darkmode-color="rgb(127, 127, 127)"
+																data-darkmode-original-color="rgb(127, 127, 127)"
+																>排名前三位</strong
+															>；2014年5月起在无锡地区经营进口床垫类品牌，至今7年，美国丝涟床垫品牌历经4年多的发展，<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(127, 127, 127)" data-darkmode-original-color="rgb(127, 127, 127)">销量增长10倍多</strong>。</span
+														>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">第一点，稳定。稳定的团队，稳定的业绩增长是非常重要的；</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">第二点，拥抱。在关键时刻，拥抱商场。商场在选址、营销上是要比经销商专业很多，要拥抱品牌方，品牌方有专业的策划团队、营销团队；</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">第三点，折腾。其实就是营销，我是单品牌运作，所以我可以跟任何品类做联盟，联盟方向这一块的话要注意四个方面：</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">1、品牌之间一定要匹配，团队之间的匹配，客户量要合适；</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">2、联盟的频率不要太高；</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">3、各种形式都不要去拒绝，要去尝试，找到适合自己的；</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">4、客户成交率、转化率一定是关键。</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<img
+															data-ratio="0.6657407407407407"
+															src="https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarWV7h0dKrH5LvmTXfJThEhdtwgPVfmqlwCoBzyn5Eb35XsM6uUc0SBYeF6s3Qxt9tYGMia3ELoRiaw/640?wx_fmt=jpeg"
+															data-type="jpeg"
+															data-w="1080"
+															style="box-sizing: border-box; width: 'auto'"
+															data-darkmode-bgcolor="rgb(192, 190, 185)"
+															data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+															data-darkmode-color="rgb(126, 98, 74)"
+															data-darkmode-original-color="rgb(162, 127, 97)"
+														/>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">昆明华洋家居广场 李俊明</strong>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">昆明港都家具有限公司总经理</strong>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 13px; color: #7f7f7f" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(127, 127, 127)" data-darkmode-original-color="rgb(127, 127, 127)"
+															>2001年进入家具零售行业，于2012年当选全国唯一家具零售商组织“中国家具销售商联合会”会长。高峰时期代理以深圳、东莞为主要产地的全国优质品牌家具超过<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(127, 127, 127)" data-darkmode-original-color="rgb(127, 127, 127)">200个专卖店</strong>，合作工厂超过<strong
+																data-darkmode-bgcolor="rgb(192, 190, 185)"
+																data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+																data-darkmode-color="rgb(127, 127, 127)"
+																data-darkmode-original-color="rgb(127, 127, 127)"
+																>160家</strong
+															>。2010年，公司联合香港家私协会共同在昆明举办的“首届香港家具文化节”在当地市场取得优秀业绩，一周收款超过<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(127, 127, 127)" data-darkmode-original-color="rgb(127, 127, 127)">3800万</strong>元，并让香港家居文化在昆明市场引发轰动。</span
+														>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">我认为还是要回归本质——产品。我们经销商应当做好基本功，产品上要探索市场的真正需求，选品上要比过去更加用心去研究，去挑选你代理的产品，甚至是去研究卖场的布置图；</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">第二个方面，在产品的营销上很多经销商可能会有一种误解，以为营销就是促销，想尽办法给客户优惠，这是不对的。没有去真正关注客户的需要、满足客户的需求，所以效果并不好。</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														就像刚刚侯主席说的，未来的时代是以技术驱动的，从前期流量引入、授权服务，一直到成交、售后服务，整个流程的运营要比同行采用更先进的技术，去打造你的营销能力，而不是买一送一、粗暴促销，这个思路要改变。在市场竞争激烈的时候，你就要做到行业的领跑者，你跑得过对手，你就赢了。
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<img
+															data-ratio="0.6666666666666666"
+															src="https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarWV7h0dKrH5LvmTXfJThEhEGyxib9Ve3wlOxFUiaL4efXDqUeGoCDAQrXjxexWveuCqZ3DvEic0TA3w/640?wx_fmt=jpeg"
+															data-type="jpeg"
+															data-w="1080"
+															style="box-sizing: border-box; width: 'auto'"
+															data-darkmode-bgcolor="rgb(192, 190, 185)"
+															data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+															data-darkmode-color="rgb(126, 98, 74)"
+															data-darkmode-original-color="rgb(162, 127, 97)"
+														/>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">南通百安谊家&nbsp; 黄峰</strong>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">南通恋家商业发展有限公司总经理</strong>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="color: #7f7f7f" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(127, 127, 127)" data-darkmode-original-color="rgb(127, 127, 127)"
+															>从事建材家居行业二十多年，代理国内、国际<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(127, 127, 127)" data-darkmode-original-color="rgb(127, 127, 127)">一线品牌40多个</strong>，经营建材，家居，高定，智能等品类。恋家国际家居自1997年成立以来一直致力于高端家居文化的引领与传递，旗下代理了众多国内外一线品牌，是进口家居界的百科全书。</span
+														>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">现在是流量时代，我们的家具产业也要学会抢流量。</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">精装修的兴起已是一个显著的行业趋势，许多客户想要快速入住，精装修就能够帮他在交房之前落实好家具这一块，软装、柜类等一条龙服务，这是家具行业的一股红利。我们因此成立了精装修部门，就是专门针对这一块。希望抢占这一波先机，抓住市场红利与流量。</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<img
+															data-ratio="0.6657407407407407"
+															src="https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarWV7h0dKrH5LvmTXfJThEh0E428q0ibl9XfP4a3w2icnC2iaNnzcv4dyQQ35HKibIy2Xs8PGcr8FnSFQ/640?wx_fmt=jpeg"
+															data-type="jpeg"
+															data-w="1080"
+															style="box-sizing: border-box; width: 'auto'"
+															data-darkmode-bgcolor="rgb(192, 190, 185)"
+															data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+															data-darkmode-color="rgb(126, 98, 74)"
+															data-darkmode-original-color="rgb(162, 127, 97)"
+														/>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">绵阳宜家美国际家居&nbsp; 毛云生</strong>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">玛格全屋定制经销商</strong>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="color: #7f7f7f" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(127, 127, 127)" data-darkmode-original-color="rgb(127, 127, 127)"
+															>目前经营2个店面，面积<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(127, 127, 127)" data-darkmode-original-color="rgb(127, 127, 127)">1000平米</strong>左右，销售额<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(127, 127, 127)" data-darkmode-original-color="rgb(127, 127, 127)"
+																>3000万</strong
+															>左右。玛格全屋定制当地运营13年，在当地定制行业多年行业<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(127, 127, 127)" data-darkmode-original-color="rgb(127, 127, 127)">排名第一</strong>。</span
+														>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">在三四线城市来讲，团队的能力比选品更重要。</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">我们十年以上的成员有十几位，大家一起一路走来，团队稳定，业绩也会很稳定。有能力的人共同创业，大家是命运共同体。</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">另外，团队成员忠诚度大于能力，留人这方面我们一直在创新，除了高的薪酬，好的福利待遇，还有合理的绩效考核机制，股权激励等，留住最优秀的员工，这非常重要。这些员工一旦流失，他的渠道资源、人脉资源就一并流失了，这些都是我们公司的资产。</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">只有大家成为利益共同体，那么在一起创业的过程中，才能够做到共同发展。有多强的团队，就能成就多大的事业。</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<img
+															data-ratio="0.6666666666666666"
+															src="https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarWV7h0dKrH5LvmTXfJThEhz5Sn8bb0ibQQnQVCVCt1z5HzEyBm5G5sOmQCy5ZF1hHyJooyvq9qmWw/640?wx_fmt=jpeg"
+															data-type="jpeg"
+															data-w="1080"
+															style="box-sizing: border-box; width: 'auto'"
+															data-darkmode-bgcolor="rgb(192, 190, 185)"
+															data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+															data-darkmode-color="rgb(126, 98, 74)"
+															data-darkmode-original-color="rgb(162, 127, 97)"
+														/>
+													</p>
+												</section>
+											</section>
+										</section>
+										<section style="display: flex; justify-content: space-between; align-items: flex-end">
+											<section style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden" data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" data-style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden;" class="js_darkmode__233">
+												<br data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" />
+											</section>
+											<section style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden" data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" data-style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden;" class="js_darkmode__234">
+												<br data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" />
+											</section>
+										</section>
+									</section>
+								</section>
+								<section data-tools="135编辑器" data-id="101745">
+									<section style="margin: 10px auto; text-align: left">
+										<section style="display: flex; justify-content: space-between; align-items: flex-end">
+											<section style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden" data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" data-style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden;" class="js_darkmode__235">
+												<br data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" />
+											</section>
+											<section style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden" data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" data-style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden;" class="js_darkmode__236">
+												<br data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" />
+											</section>
+										</section>
+										<section style="box-sizing: border-box; width: 100%; display: flex; flex: 1; border-left: 1px solid #c1a387; border-right: 1px solid #c1a387" data-width="100%">
+											<section style="flex: 1; box-sizing: border-box; padding: 10px 10px">
+												<section
+													data-brushtype="text"
+													style="background-color: #fbf8f2; text-align: center; line-height: 2em; font-size: 16px; font-weight: bold; color: #a27f61"
+													data-darkmode-bgcolor="rgb(192, 190, 185)"
+													data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+													data-darkmode-color="rgb(126, 98, 74)"
+													data-darkmode-original-color="rgb(162, 127, 97)"
+													data-style="background-color: rgb(251, 248, 242); text-align: center; line-height: 2em; font-size: 16px; font-weight: bold; color: rgb(162, 127, 97);"
+													class="js_darkmode__237"
+												>
+													NO. 3五星颁奖典礼
+												</section>
+												<section data-autoskip="1" style="padding: 20px 15px; font-size: 14px; color: rgb(162, 127, 97); box-sizing: border-box" data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)">
+													<p data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-family: 微软雅黑" data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)">后疫情时代家居行业的未来发展趋势一定要持续秉承高质量、高标准的理念，多路并进。卖场和经销商作为联动企业与消费者之间的纽扣，市场对家具品质的需求倒逼卖场、经销商对入驻的家具品牌提出更高的要求，这也会导致未来家具企业之间的质量竞争愈加激烈。</span>
+													</p>
+													<p data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-family: 微软雅黑" data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)"
+															><img data-ratio="0.6657407407407407" src="https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarWV7h0dKrH5LvmTXfJThEhhGZ11FouHNUyx7psnOn4wXEC9ImZZINmFcQtlnRTOFjHHYGqyMwuBw/640?wx_fmt=jpeg" data-type="jpeg" data-w="1080" style="box-sizing: border-box; width: 'auto'" data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)"
+														/></span>
+													</p>
+													<p data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-family: 微软雅黑" data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)"><br data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)" /></span>
+													</p>
+													<p data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)">深圳国际家具展作为全国行业领头羊，一直致力于打造高品质家具展，严把参展商品质关，经过多年累积，已经形成了中国权威家具展品质严选门槛。本次36届深圳国际家具展开展前，组织品质专家团队深入参展商工厂，围绕质量管理及现场制造、产品及原材料检测等方面展开多维度评审，对几百家参展商层层筛选，最终共评选出29家五星企业。</p>
+													<p data-darkmode-color="rgb(162, 127, 97)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<img
+															data-ratio="0.5851851851851851"
+															src="https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarWV7h0dKrH5LvmTXfJThEh935bhRGytoXsx6iaD8gbPhZKl7tzjnZMOYw52NDr6AngJoWBqicuCN6A/640?wx_fmt=jpeg"
+															data-type="jpeg"
+															data-w="1080"
+															style="box-sizing: border-box; max-inline-size: 100%; z-index: -1; cursor: pointer; caret-color: rgb(255, 0, 0); background-color: rgb(251, 248, 242); font-family: 微软雅黑, Arial, sans-serif; outline: none 0px !important"
+															data-darkmode-color="rgb(162, 127, 97)"
+															data-darkmode-original-color="rgb(162, 127, 97)"
+															data-darkmode-bgcolor="rgb(192, 190, 185)"
+															data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+															data-style="box-sizing: border-box; max-inline-size: 100%; z-index: -1; cursor: pointer; caret-color: rgb(255, 0, 0); background-color: rgb(251, 248, 242); font-family: 微软雅黑, Arial, sans-serif; outline: none 0px !important;"
+															class="js_darkmode__238"
+														/>
+													</p>
+												</section>
+												<section
+													data-autoskip="1"
+													style="padding: 20px 15px; font-size: 14px; color: rgb(162, 127, 97); background-color: rgb(251, 248, 242); box-sizing: border-box"
+													data-darkmode-bgcolor="rgb(192, 190, 185)"
+													data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+													data-darkmode-color="rgb(126, 98, 74)"
+													data-darkmode-original-color="rgb(162, 127, 97)"
+													data-style="padding: 20px 15px; font-size: 14px; color: rgb(162, 127, 97); background-color: rgb(251, 248, 242); box-sizing: border-box;"
+													class="js_darkmode__239"
+												>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)"
+															><span style="font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">深圳国际家具展品质五星企业获奖名单：</span></strong
+														>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">敏华家具制造（深圳）有限公司（敏华控股）</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">顾家家居股份有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">深圳市左右家私有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">深圳市仁豪家具发展有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">陕西南洋迪克家具制造有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">喜临门家具股份有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">深圳雅兰家居用品有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">七彩人生集团有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">深圳市松堡王国家居有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">深圳市格调家私有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">深圳市圆方园实业发展有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">深圳市华意整体家居有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">天津市南洋胡氏家具制造有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">深圳远超智慧生活股份有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">深圳市路福寝具有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">LAZBOY（中国）</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">丝涟贸易（上海）有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">金可儿（上海）床具有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">浙江梦神家居股份有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">上海梦百合家居科技有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">麒盛科技股份有限公司（索菲莉尔智能电动床）</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">赛诺家居用品（深圳）有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">大自然科技股份有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">佛山市欧康家具有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">广东联邦家私集团有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">广东省和砚家居有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">佛山市宜奥科技实业有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">佛山市光环家居有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">深圳市童话森林家具有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)"
+															>高品质意味着高标准，标准与质量相辅相成。经国务院批准，由国家市场监督总局等八部门联合发布企业标准排行榜，在深圳市家具行业协会的引领下，部分家具企业产品标准中的核心指标已经处于同行业可比范围内的领先水平。深圳家协携手深圳家具研究开发院、赛德检测，以“重品质、高标准、严要求、求创新”为基本准则，积极推动家具企业标准“领跑者”项目的开展，通过高水平标准引领，支撑并推动行业高质量发展。涌现出一批优秀的家具企业形成企业标准“领跑者”。</span
+														>
+													</p>
+													<p style="text-align: center" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<img
+															class="rich_pages js_insertlocalimg"
+															data-ratio="0.66640625"
+															data-s="300,640"
+															src="https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarWV7h0dKrH5LvmTXfJThEhU49ZZL3K5AIXlT6Shwl999iczfRQ6sjh0L9blcI8X7dt8gWRXDibb8PA/640?wx_fmt=jpeg"
+															data-type="jpeg"
+															data-w="1280"
+															style=""
+															data-darkmode-bgcolor="rgb(192, 190, 185)"
+															data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+															data-darkmode-color="rgb(126, 98, 74)"
+															data-darkmode-original-color="rgb(162, 127, 97)"
+														/>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<strong data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)"
+															><span style="font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">企业标准“领跑者”获奖名单：</span></strong
+														>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">深圳市左右家私有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">深圳市仁豪家具发展有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">深圳市格调家私有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">深圳市路福寝具有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">深圳市松堡王国家居有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">深圳市玛祖铭立家具有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">深圳市优合环境工程设计有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">深圳市欧友伟邦家居用品有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">东莞市艺峰实业投资有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-size: 12px; font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">东莞市博士有成家具有限公司</span>
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<br data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" />
+													</p>
+													<p data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<span style="font-family: 微软雅黑" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">相信本次高峰论坛给经销商朋友们带来了新的思索与启迪，我们也期待家居企业、家居经销商朋友们取得更优异的市场成绩。未来，让我们继续一起携手，寻找行业增长新动能，绘就新时代下家居经销商转型升级新画卷！</span>
+													</p>
+												</section>
+											</section>
+										</section>
+										<section style="display: flex; justify-content: space-between; align-items: flex-end">
+											<section style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden" data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" data-style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden;" class="js_darkmode__240">
+												<br data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" />
+											</section>
+											<section style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden" data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" data-style="box-sizing: border-box; background: rgb(193, 163, 135); width: 16px; height: 1px; overflow: hidden;" class="js_darkmode__241">
+												<br data-darkmode-bgcolor="rgb(193, 163, 135)" data-darkmode-original-bgcolor="rgb(193, 163, 135)" />
+											</section>
+										</section>
+									</section>
+								</section>
+								<section data-role="paragraph">
+									<p><br /></p>
+								</section>
+								<section data-tools="135编辑器" data-id="85560">
+									<section style="margin-right: auto; margin-left: auto; text-align: left">
+										<section style="padding: 2px 10px; box-sizing: border-box; display: flex; justify-content: flex-start">
+											<section
+												style="
+													box-sizing: border-box;
+													width: 50px;
+													height: 50px;
+													border-width: 2px;
+													border-style: solid;
+													border-color: rgb(227, 108, 9);
+													border-radius: 100%;
+													margin-right: 10px;
+													background-image: url('https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_png/hzxADjv06iarWV7h0dKrH5LvmTXfJThEhbLkZJNj4VVGVZLsBC3bs02fvEicyxBeM5iaFnvL2WJOWxSYW1H0ohLAw/640?wx_fmt=png');
+													background-position: center center;
+													background-size: cover;
+													background-repeat: no-repeat;
+													background-attachment: initial;
+													background-origin: initial;
+													background-clip: initial;
+												"
+												data-darkmode-bgimage="1"
+												class="js_darkmode__bg__5 js_darkmode__242"
+												data-darkmode-color="rgba(0,0,0,0.9)"
+												data-style='box-sizing: border-box; width: 50px; height: 50px; border-width: 2px; border-style: solid; border-color: rgb(227, 108, 9); border-radius: 100%; margin-right: 10px; background-image: url("https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_png/hzxADjv06iarWV7h0dKrH5LvmTXfJThEhbLkZJNj4VVGVZLsBC3bs02fvEicyxBeM5iaFnvL2WJOWxSYW1H0ohLAw/640?wx_fmt=png"); background-position: center center; background-size: cover; background-repeat: no-repeat; background-attachment: initial; background-origin: initial; background-clip: initial;'
+											>
+												<img data-ratio="1" src="https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_png/hzxADjv06iarWV7h0dKrH5LvmTXfJThEhbLkZJNj4VVGVZLsBC3bs02fvEicyxBeM5iaFnvL2WJOWxSYW1H0ohLAw/640?wx_fmt=png" data-type="png" data-w="500" data-width="100%" style="box-sizing: border-box; width: 100%; border-radius: 50%; opacity: 0" title="百佳联盟LOGO.png" data-darkmode-bgimage="1" data-darkmode-color="rgba(0,0,0,0.9)" />
+											</section>
+											<section style="margin: 5px; box-sizing: border-box">
+												<p style="clear: none; font-size: 12px; line-height: 1.5em; box-sizing: border-box">
+													<strong><span style="box-sizing: border-box; color: rgb(227, 108, 9); font-size: 14px" data-darkmode-color="rgb(227, 108, 9)" data-darkmode-original-color="rgb(227, 108, 9)">百佳联盟</span></strong>
+												</p>
+												<p style="clear: none; font-size: 12px; line-height: 1.5em; box-sizing: border-box">
+													<strong><span style="font-size: 14px">中国区域家居卖场百佳联盟俱乐部</span></strong>
+												</p>
+											</section>
+										</section>
+										<section style="border-width: initial; border-style: none; border-color: initial; margin: 5px; box-sizing: border-box">
+											<section style="box-sizing: border-box; width: 0px; border-bottom: 0.6em solid rgb(227, 108, 9); border-top-color: rgb(227, 108, 9); height: 10px; color: inherit; margin-left: 18px; overflow: hidden; border-left: 0.7em solid transparent !important; border-right: 0.7em solid transparent !important">
+												<br />
+											</section>
+											<section style="box-sizing: border-box; width: 0px; margin-left: 18px; border-bottom: 0.6em solid rgb(254, 254, 254); border-top-color: rgb(254, 254, 254); height: 10px; margin-top: -8px; color: inherit; float: left; overflow: hidden; border-left: 0.7em solid transparent !important; border-right: 0.7em solid transparent !important">
+												<br />
+											</section>
+											<section style="text-align: center; margin-right: auto; margin-bottom: -2px; margin-left: auto; border-width: 2px; border-style: solid; border-color: rgb(227, 108, 9); border-radius: 5px; padding: 15px; box-sizing: border-box">
+												<p style="text-align: justify; border-color: rgb(227, 108, 9); box-sizing: border-box" hm_fix="333:331">
+													<span style="font-size: 13px">百佳联盟致力于推动会员卖场可持续发展，倡导“资源共享、互相学习、求同存异、共同发展”。以帮助会员卖场全面提升经营管理水平;提升百佳联盟及会员卖场的行业知名度、口碑以及影响力，构建会员卖场、品牌工厂、经销商和谐共赢的行业平台为目标。</span>
+												</p>
+												<p style="text-align: justify; border-color: rgb(227, 108, 9); box-sizing: border-box" hm_fix="333:331">
+													<strong><span style="font-size: 13px">百佳联盟卖场名录：</span></strong>
+												</p>
+												<p style="text-align: left">南通百安谊家国际家居</p>
+												<p style="text-align: left">无锡华厦居港</p>
+												<p style="text-align: left">徐州升辉国际家居</p>
+												<p style="text-align: left">杭州恒大国际建材家居博览中心</p>
+												<p style="text-align: left">绵阳宜家美国际家居</p>
+												<p style="text-align: left">上海莘潮国际家居</p>
+												<p style="text-align: left">昆明华洋家居广场</p>
+												<p style="text-align: left">河北东明国际家居</p>
+												<p style="text-align: left">东营星凯全球家居生活广场</p>
+												<p style="text-align: left">连云港兴隆家居建材广场</p>
+												<p style="text-align: left">烟台嘉禾乐天国际家居</p>
+												<p style="text-align: left">天水桥南家居建材城</p>
+												<p style="text-align: left">桂林青禾美邦国际家居</p>
+												<p style="text-align: left">仙桃皇朝国际建材家居</p>
+												<p style="text-align: left">浙江诸暨乐家家居购物中心</p>
+												<p style="text-align: left">聊城顺屹国际家居博览中心</p>
+												<p style="text-align: left">惠州万饰城</p>
+												<p style="text-align: left">湛江盛邦国际家居建材广场</p>
+												<p style="text-align: left">四川博美·商业连锁</p>
+												<p style="text-align: left">贵港观天下家居生活广场</p>
+												<p style="text-align: left">青岛好一家国际家居</p>
+												<p style="text-align: left">南京石林家居</p>
+												<p style="text-align: left">桐乡红星世博家居广场</p>
+												<p style="text-align: left">张家港九洲国际家居</p>
+												<p style="text-align: left">绍兴正大装饰商城</p>
+												<p style="text-align: left">攀枝花同乐家居博览中心</p>
+												<p style="text-align: left">安徽国邦集团</p>
+												<p style="text-align: left">南京高力家居港</p>
+												<p style="text-align: left">苏州好得家</p>
+												<p style="text-align: left">常州万都国际家居</p>
+												<p style="text-align: left">中邦国际装饰广场</p>
+											</section>
+										</section>
+									</section>
+								</section>
+								<section data-tools="135编辑器" data-id="101730">
+									<section style="margin: 10px auto; text-align: left">
+										<section style="display: flex; justify-content: space-between; align-items: flex-end">
+											<section style="box-sizing: border-box; width: 10px; height: 1px; background: rgb(171, 137, 107); overflow: hidden" data-darkmode-bgcolor="rgb(171, 137, 107)" data-darkmode-original-bgcolor="rgb(171, 137, 107)" data-style="box-sizing: border-box; width: 10px; height: 1px; background: rgb(171, 137, 107); overflow: hidden;" class="js_darkmode__243">
+												<br data-darkmode-bgcolor="rgb(171, 137, 107)" data-darkmode-original-bgcolor="rgb(171, 137, 107)" />
+											</section>
+											<section style="box-sizing: border-box; width: 10px; height: 1px; background: rgb(171, 137, 107); overflow: hidden" data-darkmode-bgcolor="rgb(171, 137, 107)" data-darkmode-original-bgcolor="rgb(171, 137, 107)" data-style="box-sizing: border-box; width: 10px; height: 1px; background: rgb(171, 137, 107); overflow: hidden;" class="js_darkmode__244">
+												<br data-darkmode-bgcolor="rgb(171, 137, 107)" data-darkmode-original-bgcolor="rgb(171, 137, 107)" />
+											</section>
+										</section>
+										<section style="flex: 1; box-sizing: border-box; border-left: 1px solid #ab896b; border-right: 1px solid #ab896b; padding: 10px">
+											<section style="padding: 20px 15px; background-color: rgb(251, 248, 242); display: flex; align-items: center; justify-content: space-around; box-sizing: border-box" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-style="padding: 20px 15px; background-color: rgb(251, 248, 242); display: flex; align-items: center; justify-content: space-around; box-sizing: border-box;" class="js_darkmode__245">
+												<section style="box-sizing: border-box; width: 90px" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)">
+													<img
+														data-ratio="1.0058479532163742"
+														src="https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarWV7h0dKrH5LvmTXfJThEhq05vhfvxrr69LogMM1kMK40cI35FtY2o7m19SG7ib6B1V7m468hia5bA/640?wx_fmt=jpeg"
+														data-type="jpeg"
+														data-w="171"
+														data-width="100%"
+														style="box-sizing: border-box; width: 100%; display: block"
+														title="qrcode_for_gh_01c9e0a6d089_344.jpg"
+														data-darkmode-bgcolor="rgb(192, 190, 185)"
+														data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+													/>
+												</section>
+												<section style="box-sizing: border-box; color: #a27f61" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)" data-style="box-sizing: border-box; color: rgb(162, 127, 97);" class="js_darkmode__246">
+													<section style="display: inline-block" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+														<section
+															style="display: flex; justify-content: flex-start; align-items: center; border-bottom: 1px solid rgb(171, 137, 107); box-sizing: border-box"
+															data-darkmode-bgcolor="rgb(192, 190, 185)"
+															data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+															data-darkmode-color="rgb(126, 98, 74)"
+															data-darkmode-original-color="rgb(162, 127, 97)"
+															data-style="display: flex; justify-content: flex-start; align-items: center; border-bottom: 1px solid rgb(171, 137, 107); box-sizing: border-box;"
+															class="js_darkmode__247"
+														>
+															<section style="box-sizing: border-box; width: 10px; overflow: hidden" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+																<img
+																	data-ratio="1"
+																	src="https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_png/hzxADjv06iarWV7h0dKrH5LvmTXfJThEhkKedz6DVy6AxiazWSAR0HzbZibNmkQ8Gr4QaL9E2kicySulvuEtflmChw/640?wx_fmt=png"
+																	data-type="png"
+																	data-w="17"
+																	data-width="100%"
+																	style="box-sizing: border-box; width: 100%; display: block"
+																	data-darkmode-bgcolor="rgb(192, 190, 185)"
+																	data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+																	data-darkmode-color="rgb(126, 98, 74)"
+																	data-darkmode-original-color="rgb(162, 127, 97)"
+																/>
+															</section>
+															<section
+																data-brushtype="text"
+																style="font-size: 16px; color: #ab896b; text-indent: 0.2em; line-height: 1.8em; margin-left: 3px"
+																data-darkmode-bgcolor="rgb(192, 190, 185)"
+																data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+																data-darkmode-color="rgb(116, 89, 66)"
+																data-darkmode-original-color="rgb(171, 137, 107)"
+																data-style="font-size: 16px; color: rgb(171, 137, 107); text-indent: 0.2em; line-height: 1.8em; margin-left: 3px;"
+																class="js_darkmode__248"
+															>
+																扫码关注我们
+															</section>
+														</section>
+														<section
+															data-brushtype="text"
+															style="font-size: 14px; color: #ab896b; text-indent: 0.2em; line-height: 1.8em; margin-top: 4px"
+															data-darkmode-bgcolor="rgb(192, 190, 185)"
+															data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+															data-darkmode-color="rgb(116, 89, 66)"
+															data-darkmode-original-color="rgb(171, 137, 107)"
+															data-style="font-size: 14px; color: rgb(171, 137, 107); text-indent: 0.2em; line-height: 1.8em; margin-top: 4px;"
+															class="js_darkmode__249"
+														>
+															<section
+																data-brushtype="text"
+																style="margin-top: 4px; max-width: 100%; letter-spacing: 0.544px; text-indent: 0.2em; line-height: 1.8em; font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif; box-sizing: border-box !important; overflow-wrap: break-word !important"
+																data-darkmode-bgcolor="rgb(192, 190, 185)"
+																data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+																data-darkmode-color="rgb(116, 89, 66)"
+																data-darkmode-original-color="rgb(171, 137, 107)"
+															>
+																资源共享，互相学习、
+															</section>
+															<section
+																data-brushtype="text"
+																hm_fix="289:409"
+																style="max-width: 100%; letter-spacing: 0.544px; text-indent: 0.2em; line-height: 1.8em; font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif; box-sizing: border-box !important; overflow-wrap: break-word !important"
+																data-darkmode-bgcolor="rgb(192, 190, 185)"
+																data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+																data-darkmode-color="rgb(116, 89, 66)"
+																data-darkmode-original-color="rgb(171, 137, 107)"
+															>
+																求同存异，共同发展<span style="text-indent: 0.2em; caret-color: red; font-family: 微软雅黑, Arial, sans-serif" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(116, 89, 66)" data-darkmode-original-color="rgb(171, 137, 107)">。</span>
+															</section>
+														</section>
+														<section style="box-sizing: border-box; width: 26px; overflow: hidden; float: right; margin-top: 0.2em" data-darkmode-bgcolor="rgb(192, 190, 185)" data-darkmode-original-bgcolor="rgb(251, 248, 242)" data-darkmode-color="rgb(126, 98, 74)" data-darkmode-original-color="rgb(162, 127, 97)">
+															<img
+																data-ratio="0.41089108910891087"
+																src="https://wximg.yiban.io/img_proxy?src=https://mmbiz.qpic.cn/mmbiz_gif/FIBZec7ucCiaOJv1xaGlYbnpgUyOXeX35h4VplHTjV7EHZam8F7iccGJDGuqbMZHrrHz6ljQoEmMWI0ic2CfkLkuA/640?wx_fmt=gif"
+																data-type="gif"
+																data-w="404"
+																data-width="100%"
+																style="box-sizing: border-box; width: 100%; display: block"
+																data-darkmode-bgcolor="rgb(192, 190, 185)"
+																data-darkmode-original-bgcolor="rgb(251, 248, 242)"
+																data-darkmode-color="rgb(126, 98, 74)"
+																data-darkmode-original-color="rgb(162, 127, 97)"
+															/>
+														</section>
+													</section>
+												</section>
+											</section>
+										</section>
+										<section style="display: flex; justify-content: space-between; align-items: flex-end">
+											<section style="box-sizing: border-box; width: 10px; height: 1px; background: rgb(171, 137, 107); overflow: hidden" data-darkmode-bgcolor="rgb(171, 137, 107)" data-darkmode-original-bgcolor="rgb(171, 137, 107)" data-style="box-sizing: border-box; width: 10px; height: 1px; background: rgb(171, 137, 107); overflow: hidden;" class="js_darkmode__250">
+												<br data-darkmode-bgcolor="rgb(171, 137, 107)" data-darkmode-original-bgcolor="rgb(171, 137, 107)" />
+											</section>
+											<section style="box-sizing: border-box; width: 10px; height: 1px; background: rgb(171, 137, 107); overflow: hidden" data-darkmode-bgcolor="rgb(171, 137, 107)" data-darkmode-original-bgcolor="rgb(171, 137, 107)" data-style="box-sizing: border-box; width: 10px; height: 1px; background: rgb(171, 137, 107); overflow: hidden;" class="js_darkmode__251">
+												<br data-darkmode-bgcolor="rgb(171, 137, 107)" data-darkmode-original-bgcolor="rgb(171, 137, 107)" />
+											</section>
+										</section>
+									</section>
+								</section>
+								<section data-role="paragraph">
+									<p><br /></p>
+								</section>
+							</section>
+							<section data-role="paragraph">
+								<p><br /></p>
+							</section>
+						</section>
+						<p><br /></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</Container>
+</template>

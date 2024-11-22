@@ -5,6 +5,17 @@
 		<Meta name="keywords" content="只要数据不要钱？3.0模式才是卖场收银的未来！" />
 	</Head>
 	<Container>
+		<div class="row">
+			<div class="col-sm-12">
+				<div class="text-body">
+					<img src="./image//threecash/IMG_01.jpg" alt="3.0" srcset="" />
+					<img src="./image//threecash/IMG_02.jpg" alt="3.0" srcset="" />
+					<img src="./image//threecash/IMG_03.jpg" alt="3.0" srcset="" />
+				</div>
+			</div>
+		</div>
+	</Container>
+	<!-- <Container>
 		<div class="activity row flex-center">
 			<div class="col-12 col-lg-8">
 				<h3 class="rich_media_title" id="activity-name">只要数据不要钱？3.0模式才是卖场收银的未来！</h3>
@@ -37,7 +48,7 @@
 					<div class="rich_media_area_primary_inner">
 						<div id="img-content" class="rich_media_wrp">
 							<div class="rich_media_content" id="js_content">
-								<section style="margin-bottom: 10px; text-align: center"><img data-ratio="0.156" src="./threecash/tiitle.gif" data-type="gif" data-w="1000" style="text-align: center; white-space: normal; width: auto; font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, Arial, sans-serif" /></section>
+								<section style="margin-bottom: 10px; text-align: center"><img data-ratio="0.156" src="./image/threecash/tiitle.gif" data-type="gif" data-w="1000" style="text-align: center; white-space: normal; width: auto; font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, Arial, sans-serif" /></section>
 								<section data-tools="135编辑器" data-id="86516">
 									<section data-role="paragraph" data-color="#ef7060" style="font-size: 16px">
 										<section data-tools="135编辑器" data-id="86516" data-color="#ef7060">
@@ -79,7 +90,7 @@
 									</section>
 								</section>
 								<p style="margin-top: 15px; margin-bottom: 15px"><span style="caret-color: red; font-size: 16px; letter-spacing: 2px">概述：这种模式下，卖场没有统一的销售订单模板，商户各用各的订单格式，消费者买了商品后，商户用自己的订单填写相关信息，不用到卖场服务台加盖售后服务章，卖场也不设收银台，商户自己收钱。</span></p>
-								<p style="text-align: center"><img class="rich_pages" data-ratio="0.6828929068150209" data-s="300,640" src="./threecash/13.jpg" data-type="jpeg" data-w="719" style="" /></p>
+								<p style="text-align: center"><img class="rich_pages" data-ratio="0.6828929068150209" data-s="300,640" src="./image/threecash/13.jpg" data-type="jpeg" data-w="719" style="" /></p>
 								<p style="margin-top: 15px; margin-bottom: 15px">
 									<span style="letter-spacing: 2px"
 										><strong><span style="font-size: 15px; color: rgb(136, 136, 136)">（上图为商户各自的订单格式，无论消费者买的是几千几万还是几十万的产品，都是这样的手写订单）</span></strong></span
@@ -131,7 +142,7 @@
 									<span style="font-size: 16px; letter-spacing: 2px">概述<span style="font-size: 16px; caret-color: red">：这种模式下，卖场设置统一收银台，招聘收银人员，部署简单的收银系统，并且给商户提供统一的销售订单模板。</span></span>
 								</p>
 								<p style="margin-top: 15px; margin-bottom: 15px"><span style="font-size: 16px; caret-color: red; letter-spacing: 2px">消费者买了商品后，商户用卖场的订单填写相关信息，然后带着消费者到收银台，收银员在收银系统里录入订单信息，并且收款，给消费者打印交款凭证，消费者拿着订单和交款凭证到服务台盖卖场售后服务章。</span></p>
-								<p style="text-align: center"><img class="rich_pages" data-ratio="0.5336856010568032" data-s="300,640" src="./threecash/14.jpg" data-type="jpeg" data-w="757" style="" /></p>
+								<p style="text-align: center"><img class="rich_pages" data-ratio="0.5336856010568032" data-s="300,640" src="./image/threecash/14.jpg" data-type="jpeg" data-w="757" style="" /></p>
 								<p style="margin-top: 15px; margin-bottom: 15px">
 									<span style="letter-spacing: 2px"
 										><strong><span style="font-size: 15px; color: rgb(136, 136, 136)">（上图为家居卖场常用的统一的订单模板以及交款凭证，内容都需要导购员自己填写）</span></strong></span
@@ -189,7 +200,7 @@
 									</section>
 								</section>
 								<p style="margin-top: 15px; margin-bottom: 15px"><span style="caret-color: red; font-size: 16px; letter-spacing: 2px">概述：这种模式下，卖场取消手写订单，要求所有商户部署卖场统一的订单收银系统，商户产生销售时，导购在展厅内登陆卖场的订单收银系统，录入消费者信息、商品明细等，然后带着消费者到收银台，收银员从系统中调出该导购录入的订单，完成收款、打印交款凭证以及销售订单，再到服务台加盖售后服务章。</span></p>
-								<p style="text-align: center"><img class="rich_pages" data-ratio="0.7435197817189632" data-s="300,640" src="./threecash/15.jpg" data-type="jpeg" data-w="733" style="" /></p>
+								<p style="text-align: center"><img class="rich_pages" data-ratio="0.7435197817189632" data-s="300,640" src="./image/threecash/15.jpg" data-type="jpeg" data-w="733" style="" /></p>
 								<p>
 									<span style="letter-spacing: 2px"
 										><strong><span style="font-size: 15px; color: rgb(136, 136, 136)">（上图为家居卖场电子订单的样例，系统录入后直接打印出来，对比原来的手写订单进步很多）</span></strong></span
@@ -251,7 +262,7 @@
 								<p style="margin-top: 15px; margin-bottom: 15px"><span style="font-size: 16px; letter-spacing: 2px">卖场可以只要数据不要钱！！</span></p>
 								<p style="margin-top: 15px; margin-bottom: 15px"><span style="font-size: 16px; letter-spacing: 2px">概述：这种模式下，卖场继续延用统一收银2.0模式的电子订单，要求所有商户部署卖场统一的订单收银系统。</span></p>
 								<p style="margin-top: 15px; margin-bottom: 15px"><span style="font-size: 16px; letter-spacing: 2px">商户产生销售时，导购在展厅内登陆卖场的订单收银系统，录入消费者信息、商品明细等，然后在展厅内使用卖场指定银行或支付机构统一为商户部署的智能POS机完成收款，并使用展厅内部署的打印机(没有打印机的商户可以到卖场服务台或者使用自助合同打印机)打印订单以及交款凭证，卖场可以不设集中收银台，或者把收银台和服务台合二为一。</span></p>
-								<p style="text-align: center"><img class="rich_pages" data-ratio="0.9370725034199726" data-s="300,640" src="./threecash/16.jpg" data-type="jpeg" data-w="731" style="" /></p>
+								<p style="text-align: center"><img class="rich_pages" data-ratio="0.9370725034199726" data-s="300,640" src="./image/threecash/16.jpg" data-type="jpeg" data-w="731" style="" /></p>
 								<p style="margin-top: 15px; margin-bottom: 15px">
 									<span style="letter-spacing: 2px"
 										><strong><span style="font-size: 15px; color: rgb(136, 136, 136)">（上图为家居卖场应用智能POS机收款，以及应用自助合同打印机打印收款单和交款单）</span></strong></span
@@ -350,7 +361,7 @@
 								<p style="margin-top: 8px; margin-bottom: 8px; text-align: center"><br /></p>
 
 								<p style="text-align: center">
-									<img class="rich_pages" data-croporisrc="https://mmbiz.qpic.cn/sz_mmbiz_jpg/cRKfvGdiajvic0P67fe2ffkpDp8pWpYT3ia3f48gvc5ZyaSMvLSFSKjfE6NOTYPic4rBIFVeicgIzCibFuMrZXU0t7OQ/0?wx_fmt=jpeg" data-cropx1="153.21799307958477" data-cropx2="947.3356401384083" data-cropy1="0" data-cropy2="274.6712802768166" data-ratio="0.345088161209068" data-s="300,640" src="./threecash/17.jpg" data-type="jpeg" data-w="794" style="width: 100%; height: auto" />
+									<img class="rich_pages" data-croporisrc="https://mmbiz.qpic.cn/sz_mmbiz_jpg/cRKfvGdiajvic0P67fe2ffkpDp8pWpYT3ia3f48gvc5ZyaSMvLSFSKjfE6NOTYPic4rBIFVeicgIzCibFuMrZXU0t7OQ/0?wx_fmt=jpeg" data-cropx1="153.21799307958477" data-cropx2="947.3356401384083" data-cropy1="0" data-cropy2="274.6712802768166" data-ratio="0.345088161209068" data-s="300,640" src="./image/threecash/17.jpg" data-type="jpeg" data-w="794" style="width: 100%; height: auto" />
 								</p>
 								<section data-role="paragraph">
 									<hr style="white-space: normal; border-style: solid; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-color: rgba(0, 0, 0, 0.1); transform-origin: 0px 0px; transform: scale(1, 0.5)" />
@@ -373,5 +384,5 @@
 				</div>
 			</div>
 		</div>
-	</Container>
+	</Container> -->
 </template>

@@ -43,7 +43,7 @@ html {
 					<ul class="navbar-nav ml-auto d-flex align-items-center">
 						<li class="nav-item">
 							<span class="nav-link" href="#">
-								<a class="btn btn-info btn-round shadow-sm" href="#" data-toggle="modal" data-target="#exampleModalCenter">服务咨询</a>
+								<a class="btn btn-info btn-round shadow-sm" href="#" @click="show = true">服务咨询</a>
 							</span>
 						</li>
 					</ul>
@@ -63,7 +63,7 @@ html {
 					</svg>
 				</div>
 			</a>
-			<div class="rounded-circle shadow-lg p-1 my-4 bg-white" data-toggle="modal" data-target="#exampleModalCenter">
+			<div class="rounded-circle shadow-lg p-1 my-4 bg-white" @click="show = true">
 				<svg t="1697447541633" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4208" width="50" height="50">
 					<path
 						d="M677.63 889.8c-12.67 0-24.44-1.81-34.39-5.43h-0.91c-13.57-3.62-135.75-41.63-296.85-202.73-155.66-157.48-196.39-281.47-201.82-297.76-14.48-35.29-3.62-86 23.53-114l62.45-62.45a67.32 67.32 0 0 1 47.06-19.91c19.91 0 38.92 10 51.59 26.25l91.4 117.65c13.58 17.2 14.49 45.26 3.62 63.36l-46.15 76.92c2.72 10.86 15.38 48.87 70.59 107.7 60.64 57 96.84 67.88 106.8 70.6l76.92-46.16c10-6.34 20.82-7.24 28.06-7.24 13.58 0 26.25 3.62 35.3 10.86l117.65 91.4c15.39 12.67 25.34 29 26.24 48s-5.42 37.11-19.9 50.68L757.27 859c-19 19-49.77 30.77-79.64 30.77z"
@@ -79,10 +79,8 @@ html {
 		<div class="pt-5">
 			<slot />
 		</div>
-		<div class="w-100">
-			<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 1440 126" style="enable-background: new 0 0 1440 126" xml:space="preserve">
-				<path class="bg-black" d="M685.6,38.8C418.7-11.1,170.2,9.9,0,30v96h1440V30C1252.7,52.2,1010,99.4,685.6,38.8z" />
-			</svg>
+		<div style="width: 100%">
+			<img src="/img/foot.png" alt="" srcset="" />
 		</div>
 		<footer class="bg-black pb-5 foot">
 			<div class="container">
@@ -91,27 +89,34 @@ html {
 						<h5 class="mb-4 text-white">{{ nav.title }}</h5>
 						<ul class="list-unstyled text-small">
 							<li v-for="item in nav.childen">
-								<a class="text-muted" :href="item.href">{{ item.name }}</a>
+								<a class="text-white" :href="item.href">{{ item.name }}</a>
 							</li>
 						</ul>
 					</div>
 					<div class="col-6 col-md">
 						<h5 class="mb-4 text-white">关于我们</h5>
 						<ul class="list-unstyled text-small">
-							<li><a class="text-muted">地址: 上海市闵行区七宝镇新龙路1333弄万科七宝国际28幢216</a></li>
-							<li><a class="text-muted">公众号: 澜申科技</a></li>
-							<li><a class="text-muted">邮箱: xiedi@lineshen.com</a></li>
-							<li><a class="text-muted">联系电话: 021-54437686</a></li>
-							<li><a class="text-muted">联系电话: 18621918993</a></li>
+							<li><a class="text-white">地址: 上海市闵行区七宝镇新龙路1333弄万科七宝国际28幢216</a></li>
+							<li><a class="text-white">公众号: 澜申科技</a></li>
+							<li><a class="text-white">邮箱: xiedi@lineshen.com</a></li>
+							<li><a class="text-white">联系电话: 021-54437686 / 18621918993</a></li>
+							<li>
+								<img src="/img/about/code.png" width="100" height="100" alt="" />
+							</li>
+							<a href="https://beian.miit.gov.cn/" target="_blank"><img style="width: 20px" src="https://img.alicdn.com/tfs/TB1..50QpXXXXX7XpXXXXXXXXXX-40-40.png" />沪ICP备16048809号-1</a>
 						</ul>
 					</div>
 				</div>
 			</div>
 		</footer>
-		<ConsultModal></ConsultModal>
+		<ConsultModal :show="show" @update="onChange"></ConsultModal>
 	</div>
 </template>
 <script setup>
+const show = ref(false);
+const onChange = (value) => {
+	show.value = value;
+};
 const navList = [
 	{
 		title: "消费者口碑服务平台",
@@ -174,5 +179,14 @@ onMounted(() => {
 <style>
 .foot {
 	margin-top: -1px;
+}
+#Layer_bottom {
+	width: 100%;
+	height: 100%;
+	position: relative;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
 }
 </style>

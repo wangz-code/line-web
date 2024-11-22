@@ -1,0 +1,144 @@
+<template>
+	<Head>
+		<Title>「再起航：百佳联盟广东行第二季完美落幕 </Title>
+		<Meta name="description" content="再起航：百佳联盟广东行第二季完美落幕 " />
+		<Meta name="keywords" content="再起航：百佳联盟广东行第二季完美落幕 " />
+	</Head>
+	<Container>
+		<div class="activity row flex-center">
+			<div class="col-12 col-lg-8">
+				<h3 class="rich_media_title" id="activity-name">再起航：百佳联盟广东行第二季完美落幕</h3>
+				<div id="meta_content" class="rich_media_meta_list">
+					<span class="rich_media_meta rich_media_meta_nickname" id="profileBt">
+						<a href="javascript:void(0);" class="wx_tap_link js_wx_tap_highlight weui-wa-hotarea" id="js_name"> 家居卖场佰佳联盟 </a>
+					</span>
+					<span id="meta_content_hide_info" class="">
+						<em id="publish_time" class="rich_media_meta rich_media_meta_text">2020年12月14 </em>
+					</span>
+				</div>
+				<div id="page-content" class="rich_media_area_primary">
+					<article class="syl-page-article syl-device-pc tt-article-content font_m content">
+						<p>2017年,中国区域家居卖场百佳联盟俱乐部(简称“百佳联盟”)正式成立,由全国各省市地区经营规模、经营效益名列前茅的单体或区域连锁家居建材卖场自愿组成。</p>
+						<p style="text-align: left">百佳联盟的宗旨是致力于推动会员卖场可持续发展,倡导“资源共享、互相学习、求同存异、共同发展”。以帮助会员卖场全面提升经营管理水平;提升百佳联盟及会员卖场的行业知名度、口碑以及影响力;构建会员卖场、品牌工厂、经销商和谐共赢的行业平台为目标。</p>
+						<p style="text-align: left">2020年,家居卖场复市以来一直在觅思路寻发展,继7月24至27日中国区域家居卖场百佳联盟广东行第一季之后,12月7至9日,百佳联盟广东行第二季于近日完美落幕。</p>
+						<p style="text-align: left">百佳联盟理事长、南通百安谊家总经理胡小锋,百佳联盟发起人、上海澜申科技联合创始人许清有,百佳联盟秘书长谢地,南通百安谊家国际家居、徐州升辉国际家居、无锡华厦家居港、杭州恒大国际建材家居、上海莘潮国际家居、绵阳宜家美国际家居六家百佳联盟理事单位代表及二十余家联盟卖场董事长、总经理、招商负责人等一行先后走进敏华控股、唯美集团、Vifa威法高端定制、大自然家居、恒洁卫浴品牌工厂,深入了解工厂产品布局,营销思路。</p>
+						<p style="text-align: left">联盟卖场的到访,得到了各品牌工厂的高度重视和盛情接待,工厂高层领导也在百忙之中抽出时间参与交流,让会员卖场与家居行业头部企业得到了深度的交流和沟通。头部品牌企业对百佳联盟到工厂互动交流给予了高度评价,并就品牌的发展趋势以及品牌终端的规划布局以及相关政策作分享,工厂与联盟卖场深度交流并就品牌联合发声、门店入驻与联合营销等方面达成战略合作。</p>
+						<p style="text-align: left">过去,由于区域卖场和品牌工厂间缺少交流,传统的经销商信息传递渠道,容易存在信息不对称的问题。此次双方通过直接对话、通过现场交流更精准地获得信息,加紧了品牌与卖场的合作交流。品牌工厂非常期待在区域优质卖场开店,卖场也在积极调整品类品牌。百佳联盟成立的意义也在于此,如果会员商场还是按照以往传统,在地方城市闭门造车,那很有可能就会被淘汰,只有大家联合起来、相互学习、相互提升,才能实现整体的进步和发展。</p>
+						<p style="text-align: left">百佳联盟广东行第二季受到了联盟卖场和品牌工厂的热烈欢迎,在行业内也引起了极大的反响和高度好评。对此,百佳联盟发起人、上海澜申科技联合创始人许清有表示,百佳联盟旨在为区域优秀家居卖场搭建沟通与信息共享平台,未来百佳联盟还将继续组织联盟卖场与品牌工厂进行交流活动,以实现“资源共享、互相学习、求同存异、共同发展”。</p>
+						<p style="text-align: left"><strong>第一站——敏华控股</strong></p>
+						<p style="text-align: left">2020年12月7日·广东惠州大亚湾敏华控股集团</p>
+						<div class="pgc-img">
+							<img src="https://p3-tt.byteimg.com/origin/pgc-image/319a0675c696470b843ffbfdbeac3f67?from=pc" img_width="500" img_height="340" alt="再起航：百佳联盟广东行第二季完美落幕" inline="0" class="syl-page-img" />
+							<p class="pgc-img-caption"></p>
+						</div>
+						<p style="text-align: center">敏华控股董事局主席黄敏利博士现场分享</p>
+						<p class="syl-page-br syl-page-br-hide"><br /></p>
+						<div class="pgc-img">
+							<img src="https://p3-tt.byteimg.com/origin/pgc-image/cc79347140464d99b81454c396650de5?from=pc" img_width="500" img_height="280" alt="再起航：百佳联盟广东行第二季完美落幕" inline="0" class="syl-page-img" />
+							<p class="pgc-img-caption"></p>
+						</div>
+						<p style="text-align: center">敏华控股&amp;百佳联盟战略合作签约</p>
+						<p class="syl-page-br"><br /></p>
+						<p style="text-align: left"><strong>第二站——唯美集团马可波罗</strong></p>
+						<p style="text-align: left">2020年12月8日·广东东莞高埗唯美集团</p>
+						<div class="pgc-img">
+							<img src="https://p6-tt.byteimg.com/origin/pgc-image/9b055164ad2d41aca81c26c46d36d2dc?from=pc" img_width="500" img_height="396" alt="再起航：百佳联盟广东行第二季完美落幕" inline="0" class="syl-page-img" />
+							<p class="pgc-img-caption"></p>
+						</div>
+						<p style="text-align: center">唯美集团营销中心副总经理黄炎斌现场分享</p>
+						<p class="syl-page-br syl-page-br-hide"><br /></p>
+						<div class="pgc-img">
+							<img src="https://p1-tt.byteimg.com/origin/pgc-image/0f9af300fcc14e229abedbfc1e7853d1?from=pc" img_width="500" img_height="270" alt="再起航：百佳联盟广东行第二季完美落幕" inline="0" class="syl-page-img" />
+							<p class="pgc-img-caption"></p>
+						</div>
+						<p style="text-align: center">联盟一行唯美总部合影</p>
+						<p class="syl-page-br"><br /></p>
+						<p style="text-align: left"><strong>第三站——Vifa威法高端定制</strong></p>
+						<p style="text-align: left">2020年12月8日·广东广州琶洲工美港创意园</p>
+						<div class="pgc-img">
+							<img src="https://p3-tt.byteimg.com/origin/pgc-image/27812c958a56405ebf7ed81565dd97a6?from=pc" img_width="500" img_height="333" alt="再起航：百佳联盟广东行第二季完美落幕" inline="0" class="syl-page-img" />
+							<p class="pgc-img-caption"></p>
+						</div>
+						<p style="text-align: center">Vifa威法高端定制董事总经理王超对联盟一行给予高度评价</p>
+						<p class="syl-page-br syl-page-br-hide"><br /></p>
+						<div class="pgc-img">
+							<img src="https://p6-tt.byteimg.com/origin/pgc-image/de7d1e79d7ad44739600ae493526ea3d?from=pc" img_width="500" img_height="281" alt="再起航：百佳联盟广东行第二季完美落幕" inline="0" class="syl-page-img" />
+							<p class="pgc-img-caption"></p>
+						</div>
+						<p style="text-align: center">Vifa威法高端定制董事总经理王超与联盟会员合影留念</p>
+						<p class="syl-page-br syl-page-br-hide"><br /></p>
+						<div class="pgc-img">
+							<img src="https://p6-tt.byteimg.com/origin/pgc-image/998ff54a0635403fa55ba94fcdd318f9?from=pc" img_width="500" img_height="319" alt="再起航：百佳联盟广东行第二季完美落幕" inline="0" class="syl-page-img" />
+							<p class="pgc-img-caption"></p>
+						</div>
+						<p style="text-align: center">百佳联盟参观Vifa威法高端定制</p>
+						<p class="syl-page-br"><br /></p>
+						<p style="text-align: left"><strong>第四站—大自然家居控股</strong></p>
+						<p style="text-align: left">2020年12月9日·广东省佛山顺德大良大自然家居</p>
+						<div class="pgc-img">
+							<img src="https://p3-tt.byteimg.com/origin/pgc-image/dd30558d7f294ae683237458eb6709cd?from=pc" img_width="500" img_height="595" alt="再起航：百佳联盟广东行第二季完美落幕" inline="0" class="syl-page-img" />
+							<p class="pgc-img-caption"></p>
+						</div>
+						<p style="text-align: center">大自然家居控股有限公司董事、高级顾问佘建彬现场分享</p>
+						<p class="syl-page-br syl-page-br-hide"><br /></p>
+						<div class="pgc-img">
+							<img src="https://p6-tt.byteimg.com/origin/pgc-image/2528c108f1d6499cba68ce6f53b81bbb?from=pc" img_width="500" img_height="245" alt="再起航：百佳联盟广东行第二季完美落幕" inline="0" class="syl-page-img" />
+							<p class="pgc-img-caption"></p>
+						</div>
+						<p style="text-align: center">大自然家居董事高级顾问佘建彬与联盟成员合影留念</p>
+						<p class="syl-page-br"><br /></p>
+						<p style="text-align: left"><strong>第五站—恒洁卫浴</strong></p>
+						<p style="text-align: left">2020年12月9日·广东省佛山禅城恒洁卫浴</p>
+						<div class="pgc-img">
+							<img src="https://p6-tt.byteimg.com/origin/pgc-image/a209559b1c4a48dab5d76a8325c37dfc?from=pc" img_width="500" img_height="333" alt="再起航：百佳联盟广东行第二季完美落幕" inline="0" class="syl-page-img" />
+							<p class="pgc-img-caption"></p>
+						</div>
+						<p style="text-align: center">恒洁集团高级销售副总裁洪卫军现场分享</p>
+						<p class="syl-page-br syl-page-br-hide"><br /></p>
+						<div class="pgc-img">
+							<img src="https://p1-tt.byteimg.com/origin/pgc-image/f7a9c06f765643f48a15ba231bfc9a4d?from=pc" img_width="500" img_height="315" alt="再起航：百佳联盟广东行第二季完美落幕" inline="0" class="syl-page-img" />
+							<p class="pgc-img-caption"></p>
+						</div>
+						<p style="text-align: center">恒洁卫浴&amp;百佳联盟战略合作协议签订</p>
+						<p class="syl-page-br syl-page-br-hide"><br /></p>
+						<div class="pgc-img">
+							<img src="https://p1-tt.byteimg.com/origin/pgc-image/7cf0167e7f2c4ee0b243ae23f248228e?from=pc" img_width="500" img_height="254" alt="再起航：百佳联盟广东行第二季完美落幕" inline="0" class="syl-page-img" />
+							<p class="pgc-img-caption"></p>
+						</div>
+						<p style="text-align: center">百佳联盟&amp;恒洁卫浴办公楼合影</p>
+						<p class="syl-page-br"><br /></p>
+						<p style="text-align: left"><strong>参会卖场会员名单:</strong></p>
+						<p style="text-align: left">南通百安谊家国际家居</p>
+						<p style="text-align: left">无锡华厦家居港</p>
+						<p style="text-align: left">徐州升辉国际家居</p>
+						<p style="text-align: left">杭州恒大国际建材家居博览中心</p>
+						<p style="text-align: left">绵阳宜家美国际家居</p>
+						<p style="text-align: left">上海莘潮国际家居</p>
+						<p style="text-align: left">河北东明国际家居</p>
+						<p style="text-align: left">东营星凯全球家居生活广场</p>
+						<p style="text-align: left">连云港兴隆家居建材广场</p>
+						<p style="text-align: left">烟台嘉禾乐天国际家居</p>
+						<p style="text-align: left">天水桥南家居建材城</p>
+						<p style="text-align: left">桂林青禾美邦国际家居</p>
+						<p style="text-align: left">仙桃皇朝国际建材家居</p>
+						<p style="text-align: left">浙江诸暨乐家家居购物中心</p>
+						<p style="text-align: left">聊城顺屹国际家居博览中心</p>
+						<p style="text-align: left">惠州万饰城</p>
+						<p style="text-align: left">湛江盛邦国际家居建材广场</p>
+						<p style="text-align: left">四川博美·商业连锁</p>
+						<p style="text-align: left">贵港观天下家居生活广场</p>
+						<p style="text-align: left"><strong>关于中国区域家居卖场百佳联盟俱乐部</strong></p>
+						<p style="text-align: left">中国区域家居卖场百佳联盟俱乐部(简称“百佳联盟”)是由全国各省市地区经营规模、经营效益名列前茅的单体或区域连锁家居建材卖场自愿组成的全国性行业民间组织机构。</p>
+						<p style="text-align: left">百佳联盟名称:中国区域家居卖场百佳联盟俱乐部</p>
+						<p style="text-align: left">百佳联盟性质:由全国各省市地区经营规模、经营效益名列前茅的单体或区域连锁家居建材卖场自愿组成。</p>
+						<p style="text-align: left">百佳联盟宗旨:致力于推动会员卖场可持续发展,倡导“资源共享、互相学习、求同存异、共同发展”。</p>
+						<p style="text-align: left">百佳联盟目标:</p>
+						<p style="text-align: left">(一)帮助会员卖场全面提升经营管理水平;</p>
+						<p style="text-align: left">(二)提升百佳联盟及会员卖场的行业知名度、口碑以及影响力;</p>
+						<p style="text-align: left">(三)构建会员卖场、品牌工厂、经销商和谐共赢的行业平台。</p>
+					</article>
+				</div>
+			</div>
+		</div>
+	</Container>
+</template>

@@ -1,0 +1,246 @@
+<template>
+	<Head>
+		<Title>深度对接 强强联合 共谋未来|百佳联盟&敏华控股对接交流会议在杭圆满落幕</Title>
+		<Meta name="description" content="深度对接 强强联合 共谋未来|百佳联盟&敏华控股对接交流会议在杭圆满落幕" />
+		<Meta name="keywords" content="深度对接 强强联合 共谋未来|百佳联盟&敏华控股对接交流会议在杭圆满落幕" />
+	</Head>
+	<Container>
+		<div class="activity row flex-center">
+			<div class="col-12 col-lg-8">
+				<h3 class="rich_media_title" id="activity-name">深度对接 强强联合 共谋未来|百佳联盟&敏华控股对接交流会议在杭圆满落幕</h3>
+				<div id="meta_content" class="rich_media_meta_list">
+					<span class="rich_media_meta rich_media_meta_nickname" id="profileBt">
+						<a href="javascript:void(0);" class="wx_tap_link js_wx_tap_highlight weui-wa-hotarea" id="js_name"> 家居卖场佰佳联盟 </a>
+					</span>
+					<span id="meta_content_hide_info" class="">
+						<em id="publish_time" class="rich_media_meta rich_media_meta_text">2021年04月15</em>
+					</span>
+				</div>
+				<div id="page-content" class="rich_media_area_primary">
+					<section data-role="outer" label="Powered by 135editor.com">
+						<section data-role="paragraph">
+							<p style="text-align: left">
+								<img referrerpolicy="no-referrer" data-ratio="0.22988505747126436" src="https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarnSfxWPzthnn9KpemqnriaxLib2E81fE0vVaGNnIL6NJ7t2pzvXfU6mKGf8pDYK6QG57qiaibvhHLciag/640?wx_fmt=jpeg" data-type="jpeg" data-w="783" style="box-sizing: border-box; width: 'auto'" />
+							</p>
+							<section style="text-indent: 2em; text-align: left">
+								<span style="font-size: 14px">4月12日，百佳联盟二十余家会员卖场负责人齐聚杭州恒大，对话敏华控股集团，共商排阵布局与营销落地，增进双方2021年深度合作。本次百佳联盟与敏华控股集团互动交流得到了敏华控股集团董事会主席黄敏利博士的高度赞同，并约定深入对接承诺落地。</span>
+							</section>
+							<p style="text-align: left">
+								<img referrerpolicy="no-referrer" data-ratio="0.667" src="https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarnSfxWPzthnn9KpemqnriaxiaXJEhfpLOYe5ZvldUrrCSOooboBP3L56LvVkODibXd2KGaHmLIxR0Ow/640?wx_fmt=jpeg" data-type="jpeg" data-w="1000" style="box-sizing: border-box; width: 'auto'" />
+							</p>
+							<section style="text-indent: 2em; text-align: left">
+								<span style="font-size: 14px">百佳联盟理事长、南通百安谊家总经理胡小锋，</span><span style="font-size: 14px; text-indent: 2em">百佳联盟发起人、上海澜申科技联合创始人许清有，<span style="text-indent: 34px; font-size: 14px">百佳联盟</span><span style="font-size: 14px; text-indent: 2em">秘</span><span style="font-size: 14px; text-indent: 2em">书长、上海澜申科技联合创始人</span><span style="font-size: 14px; text-indent: 2em">谢地，</span></span
+								><span style="font-size: 14px; text-indent: 2em">无锡华厦家居港副总经理杜惠增，</span><span style="font-size: 14px; text-indent: 2em">杭州恒大国际建材家居博览中心总经理陈剑良、常务副总靳强，</span><span style="font-size: 14px; text-indent: 2em">上海莘潮国际家居执行董事张晶，</span><span style="font-size: 14px; text-indent: 2em">徐州升辉国际家居广场营销总监刘明桓，</span><span style="font-size: 14px; text-indent: 2em">昆明华洋家居广场运营总监黄敏，</span
+								><span style="font-size: 14px; text-indent: 2em">高力集团副总裁王启亮，</span><span style="font-size: 14px; text-indent: 2em">四川绵阳宜家美国际家居总经理蒋琦，</span><span style="font-size: 14px; text-indent: 2em">眉山博美云商城副总经理朱珠，</span><span style="font-size: 14px; text-indent: 2em">苏州好得家集团招商负责人邱波，</span><span style="font-size: 14px; text-indent: 2em">绍兴正大装饰商城董事长丁正良，</span
+								><span style="font-size: 14px; text-indent: 2em">诸暨乐家家居购物中心总经理韦平，</span><span style="font-size: 14px; text-indent: 2em">天水桥南家居建材城招商总监马永军，</span><span style="font-size: 14px; text-indent: 2em">南京石林家居招商总监郭迪，</span><span style="font-size: 14px; text-indent: 2em">桐乡红星世博家居广场总经理王文竹，</span><span style="font-size: 14px; text-indent: 2em">青岛好一家家居副总经理赵锋娟，</span
+								><span style="font-size: 14px; text-indent: 2em">仙桃皇朝国际建材家居总经理胡婷，</span><span style="font-size: 14px; text-indent: 2em">东营星凯家居总经理李荣，</span><span style="font-size: 14px; text-indent: 2em">湛江盛邦国际建材家居广场副总经理禤小东，</span><span style="font-size: 14px; text-indent: 2em">石家庄东明家居外联总戎建利，</span><span style="font-size: 14px; text-indent: 2em">烟台嘉禾乐天黄务店总经理陈磊，</span
+								><span style="font-size: 14px; text-indent: 2em">聊城顺屹家居总经理郭永明，以及各卖场相关负责人共同出席交流会。</span>
+							</section>
+							<p style="text-align: left">
+								<span style="font-size: 14px"
+									><img
+										referrerpolicy="no-referrer"
+										data-ratio="0.6666666666666666"
+										src="https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarnSfxWPzthnn9KpemqnriaxCDZon2KTjySKib4A0F04FoAv7eVaquJRzj6lkwQFlANiaPXpYfY3PddA/640?wx_fmt=jpeg"
+										data-type="jpeg"
+										data-w="1080"
+										style="box-sizing: border-box; max-inline-size: 100%; color: rgb(0, 0, 0); font-size: 17px; caret-color: rgb(255, 0, 0); background-color: rgb(255, 255, 255); font-family: 微软雅黑, Arial, sans-serif; outline: none 0px !important"
+								/></span>
+							</p>
+							<section style="text-indent: 2em; text-align: left">
+								<span style="font-size: 14px">敏华控股副总裁兼五星事业部总经理张旺，</span><span style="font-size: 14px; text-indent: 2em">白马商业首席增长官吴永康，</span><span style="font-size: 14px; text-indent: 2em">乐德飞翼&amp;尼科莱蒂事业部总裁张艳梅，</span><span style="font-size: 14px; text-indent: 2em">芝华仕杭州经销商张强，</span><span style="font-size: 14px; text-indent: 2em">上海、苏南、浙江等区域负责人参会交流互动。</span>
+							</section>
+							<p style="text-align: left">
+								<span style="font-size: 14px"><img referrerpolicy="no-referrer" data-ratio="0.6666666666666666" src="https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarnSfxWPzthnn9KpemqnriaxPEBdWqGQOw0Ykla4C1uU0SqajwlcsBj6vGsKT7HxN6CZO0zaOhSB8g/640?wx_fmt=jpeg" data-type="jpeg" data-w="1080" style="box-sizing: border-box; width: 'auto'" /></span>
+							</p>
+							<section style="text-indent: 2em; text-align: left">
+								<span style="font-size: 14px">与会人员首先参观了芝华仕杭州恒大店，目前芝华仕在恒大开有5个门店，面积达3500方，已经进驻贵族、伯爵、五星、都市、乐德飞翼五个系列，接下来将引进意斯特和欧勒德系列。</span>
+							</section>
+							<section style="text-indent: 2em; text-align: left">
+								<span style="font-size: 14px">在会议交流互动环节，许清有主持会议并介绍了本次交流会的目的与意义。前期，百佳联盟已经与敏华控股集团高层经过交流并达成一致，为确保2021年度相关事项的有效落地，特组织本次交流会议，希望各卖场与敏华控股集团能够进行更进一步的对接。</span>
+							</section>
+							<p style="text-align: left">
+								<span style="font-size: 14px"><img referrerpolicy="no-referrer" data-ratio="0.6666666666666666" src="https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarnSfxWPzthnn9KpemqnriaxOYwicW99iaYibAOxicBs7JgLfJ0vxWx0Z7uPvtA7dIAoIrklMiamqOG6iciaw/640?wx_fmt=jpeg" data-type="jpeg" data-w="1080" style="box-sizing: border-box; width: 'auto'" /></span>
+							</p>
+							<section style="text-indent: 2em; text-align: left">
+								<span style="font-size: 14px">敏华控股张旺总介绍了集团的“霸盘”思维，以及集团对卖场的相关支持政策，对满足条件的卖场给予活动支持，并表示此前黄主席关于“开店、活动”的两个承诺一定会兑现。</span>
+							</section>
+							<p style="text-align: left">
+								<span style="font-size: 14px"><img referrerpolicy="no-referrer" data-ratio="0.6666666666666666" src="https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarnSfxWPzthnn9KpemqnriaxyzpTTicaIHPowxkE6fwKB0iaVzW7HftFFApGD3fR3IMRSotRdeshC7yw/640?wx_fmt=jpeg" data-type="jpeg" data-w="1080" style="box-sizing: border-box; width: 'auto'" /></span>
+							</p>
+							<section style="text-indent: 2em; text-align: left">
+								<span style="font-size: 14px">白马商业首席增长官吴永康介绍了今年敏华集团在营销产品、资源、政策方面的支持。集团支持联盟卖场，希望各卖场能够为敏华提供更多的位置和支持。白马商业作为敏华集团的活动执行方，接下来将以单店单商为载体，全线综合各头部品牌，推动营销落地。集团整体思路、方向已经很明确，计划2021年全国将落地千场明星活动。</span>
+							</section>
+							<p style="text-align: left">
+								<span style="font-size: 14px"></span
+								><span style="font-size: 14px"
+									><img
+										referrerpolicy="no-referrer"
+										data-ratio="0.6666666666666666"
+										src="https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarnSfxWPzthnn9KpemqnriaxmvNPjeia0x0lMjpAzHl4j4m34nSia9XMxliaY7v0B89F14thJOAcNCRAg/640?wx_fmt=jpeg"
+										data-type="jpeg"
+										data-w="1080"
+										style="box-sizing: border-box; max-inline-size: 100%; z-index: -1; cursor: pointer; color: rgb(0, 0, 0); font-size: 17px; caret-color: rgb(255, 0, 0); background-color: rgb(255, 255, 255); font-family: 微软雅黑, Arial, sans-serif; outline: none 0px !important"
+								/></span>
+							</p>
+							<section style="text-indent: 2em; text-align: left"><span style="font-size: 14px">乐德飞翼&amp;尼科莱蒂事业部总裁张艳梅简单介绍了乐德飞翼和尼科莱蒂两个品牌的大致情况。她表示，集团的“霸盘”目的是为了满足不同的消费习惯。横向做流量，纵向做品质。乐德飞翼作为科技创新品牌，德国工艺设计，致力改善与提升中产阶级的生活方式，</span><span style="font-size: 14px">期待和大家的合作。</span></section>
+							<section style="text-indent: 2em; text-align: left">
+								<span style="font-size: 14px">随后，张旺总介绍了敏华控股集团的运营情况，百佳联盟与敏华集团的合作，既能同创共赢，也会有未来的可持续发展。</span>
+							</section>
+							<p style="text-align: left">
+								<span style="font-size: 14px"></span>
+							</p>
+							<p style="text-align: left">
+								<img referrerpolicy="no-referrer" class="rich_pages js_insertlocalimg" data-ratio="0.66640625" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarnSfxWPzthnn9KpemqnriaxVgic4no6eeh68AiaOVf16Fiaib7GKic6RzQeIqVTDZv7QSfsundNWScZoIw/640?wx_fmt=jpeg" data-type="jpeg" data-w="1280" style="" />
+							</p>
+							<section style="text-indent: 2em; text-align: left">
+								<span style="font-size: 14px">杭州恒大国际建材家居常务副总靳强代表百佳联盟各卖场发言，他代表联盟感谢张旺总为卖场争取营销政策，希望今后敏华集团能给联盟政策倾斜，不仅要敢放招，也要敢接招。最后希望各卖场先根据自身实际情况确定好所需品类品系，再制定相应政策。</span>
+							</section>
+							<p style="text-align: left">
+								<img referrerpolicy="no-referrer" class="rich_pages js_insertlocalimg" data-ratio="0.66640625" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarnSfxWPzthnn9KpemqnriaxEHembnMECdNGIWB0RW71r5Iiaxiclhjp0iarXZAHHHFnf8ZZ3PHLia0pFQ/640?wx_fmt=jpeg" data-type="jpeg" data-w="1280" style="" />
+							</p>
+							<section style="text-indent: 2em; text-align: left">
+								<span style="font-size: 14px">芝华仕杭州经销商张强作为经销商代表分享心得。他认为经销商很重要，敏华集团六条通道，可以满足市场各种需求，希望百佳联盟与敏华的合作越来越好。</span>
+							</section>
+							<section style="text-indent: 2em; text-align: left"><span style="font-size: 14px">百佳联盟理事长、南通百安谊家总经理胡小锋最后总结致辞，对于百佳联盟和敏华集团合作机会的来之不易，希望双方加紧合作，及时沟通。</span><span style="font-size: 14px">希望大家能够在活动级别、活跃氛围等方面多思考，多交流。</span></section>
+							<p style="text-align: left">
+								<img referrerpolicy="no-referrer" class="rich_pages js_insertlocalimg" data-ratio="0.66640625" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarnSfxWPzthnn9KpemqnriaxzFWTG3R3icUDGO50N3ujia7JCMqzeibd6dQhA7zLDAwRPHe5xVedk4WmA/640?wx_fmt=jpeg" data-type="jpeg" data-w="1280" style="" />
+							</p>
+							<p style="text-align: left">
+								<img referrerpolicy="no-referrer" class="rich_pages js_insertlocalimg" data-ratio="0.66640625" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarnSfxWPzthnn9Kpemqnriax7iaKic515ucWbDBS3siaGn9ONHz2DpHPD6pYgkLKiaxSGaDHd7QS1ON8cA/640?wx_fmt=jpeg" data-type="jpeg" data-w="1280" style="" />
+							</p>
+							<section style="text-indent: 2em; text-align: left">
+								<span style="font-size: 14px">此次会议，百佳联盟各卖场与敏华控股集团在“霸盘”扩店、营销落地等诸多方面达成一致意见，接下来会根据各卖场不同情况进行相关事项的实施对接和落地。</span>
+							</section>
+							<p>
+								<br />
+							</p>
+							<section data-tools="135编辑器" data-id="85560">
+								<section style="margin-right: auto; margin-left: auto; text-align: left">
+									<section style="padding: 2px 10px; box-sizing: border-box; display: flex; justify-content: flex-start">
+										<section
+											style="
+												box-sizing: border-box;
+												width: 50px;
+												height: 50px;
+												border-width: 2px;
+												border-style: solid;
+												border-color: rgb(227, 108, 9);
+												border-radius: 100%;
+												margin-right: 10px;
+												background-image: url('https://mmbiz.qpic.cn/mmbiz_png/hzxADjv06iarnSfxWPzthnn9KpemqnriaxXIHLSdMdh5JdZWWswBiazfMWSmJC3EnI6h6pspo5X1qJU9prEUsJxVQ/640?wx_fmt=png');
+												background-position: center center;
+												background-size: cover;
+												background-repeat: no-repeat;
+												background-attachment: initial;
+												background-origin: initial;
+												background-clip: initial;
+											"
+										>
+											<img referrerpolicy="no-referrer" data-ratio="1" src="https://mmbiz.qpic.cn/mmbiz_png/hzxADjv06iarnSfxWPzthnn9KpemqnriaxXIHLSdMdh5JdZWWswBiazfMWSmJC3EnI6h6pspo5X1qJU9prEUsJxVQ/640?wx_fmt=png" data-type="png" data-w="500" data-width="100%" style="box-sizing: border-box; width: 100%; border-radius: 50%; opacity: 0" title="百佳联盟LOGO.png" />
+										</section>
+										<section style="margin: 5px; box-sizing: border-box">
+											<p style="clear: none; font-size: 12px; line-height: 1.5em; box-sizing: border-box">
+												<strong><span style="box-sizing: border-box; color: rgb(227, 108, 9); font-size: 14px">百佳联盟</span></strong>
+											</p>
+											<p style="clear: none; font-size: 12px; line-height: 1.5em; box-sizing: border-box">
+												<strong><span style="font-size: 14px">中国区域家居卖场百佳联盟俱乐部</span></strong>
+											</p>
+										</section>
+									</section>
+									<section style="border-width: initial; border-style: none; border-color: initial; margin: 5px; box-sizing: border-box">
+										<section style="box-sizing: border-box; width: 0px; border-bottom: 0.6em solid rgb(227, 108, 9); border-top-color: rgb(227, 108, 9); height: 10px; color: inherit; margin-left: 18px; overflow: hidden; border-left: 0.7em solid transparent !important; border-right: 0.7em solid transparent !important">
+											<br />
+										</section>
+										<section style="box-sizing: border-box; width: 0px; margin-left: 18px; border-bottom: 0.6em solid rgb(254, 254, 254); border-top-color: rgb(254, 254, 254); height: 10px; margin-top: -8px; color: inherit; float: left; overflow: hidden; border-left: 0.7em solid transparent !important; border-right: 0.7em solid transparent !important">
+											<br />
+										</section>
+										<section style="text-align: center; margin-right: auto; margin-bottom: -2px; margin-left: auto; border-width: 2px; border-style: solid; border-color: rgb(227, 108, 9); border-radius: 5px; padding: 15px; box-sizing: border-box">
+											<p style="text-align: justify; border-color: rgb(227, 108, 9); box-sizing: border-box" hm_fix="333:331">
+												<span style="font-size: 13px">百佳联盟致力于推动会员卖场可持续发展，倡导“资源共享、互相学习、求同存异、共同发展”。以帮助会员卖场全面提升经营管理水平;提升百佳联盟及会员卖场的行业知名度、口碑以及影响力，构建会员卖场、品牌工厂、经销商和谐共赢的行业平台为目标。</span>
+											</p>
+											<p style="text-align: justify; border-color: rgb(227, 108, 9); box-sizing: border-box" hm_fix="333:331">
+												<strong><span style="font-size: 13px">百佳联盟卖场名录：</span></strong>
+											</p>
+											<p style="text-align: left">南通百安谊家国际家居</p>
+											<p style="text-align: left">无锡华厦家居港</p>
+											<p style="text-align: left">徐州升辉国际家居</p>
+											<p style="text-align: left">杭州恒大国际建材家居博览中心</p>
+											<p style="text-align: left">绵阳宜家美国际家居</p>
+											<p style="text-align: left">上海莘潮国际家居</p>
+											<p style="text-align: left">昆明华洋家居广场</p>
+											<p style="text-align: left">河北东明国际家居</p>
+											<p style="text-align: left">东营星凯全球家居生活广场</p>
+											<p style="text-align: left">连云港兴隆家居建材广场</p>
+											<p style="text-align: left">烟台嘉禾乐天国际家居</p>
+											<p style="text-align: left">天水桥南家居建材城</p>
+											<p style="text-align: left">桂林青禾美邦国际家居</p>
+											<p style="text-align: left">仙桃皇朝国际建材家居</p>
+											<p style="text-align: left">浙江诸暨乐家家居购物中心</p>
+											<p style="text-align: left">聊城顺屹国际家居博览中心</p>
+											<p style="text-align: left">惠州万饰城</p>
+											<p style="text-align: left">湛江盛邦国际家居建材广场</p>
+											<p style="text-align: left">四川博美·商业连锁</p>
+											<p style="text-align: left">贵港观天下家居生活广场</p>
+											<p style="text-align: left">青岛好一家国际家居</p>
+											<p style="text-align: left">南京石林家居</p>
+											<p style="text-align: left">桐乡红星世博家居广场</p>
+											<p style="text-align: left">绍兴正大装饰商城</p>
+											<p style="text-align: left">攀枝花同乐家居博览中心</p>
+											<p style="text-align: left">安徽国邦集团</p>
+											<p style="text-align: left">高力国际家居</p>
+											<p style="text-align: left">苏州好得家</p>
+											<p style="text-align: left">常州万都国际家居</p>
+											<p style="text-align: left">中邦国际装饰广场</p>
+										</section>
+									</section>
+								</section>
+							</section>
+							<section data-role="paragraph">
+								<p>
+									<br />
+								</p>
+							</section>
+							<section data-tools="135编辑器" data-id="101730">
+								<section style="margin: 10px auto; text-align: left">
+									<section style="flex: 1 1 0%; box-sizing: border-box; border-left: 1px solid rgb(171, 137, 107); border-right: 1px solid rgb(171, 137, 107); padding: 10px; text-align: left">
+										<section style="padding: 20px 15px; background-color: rgb(251, 248, 242); display: flex; align-items: center; justify-content: space-around; box-sizing: border-box">
+											<section style="box-sizing: border-box; width: 90px">
+												<img referrerpolicy="no-referrer" data-ratio="1.0058479532163742" src="https://mmbiz.qpic.cn/mmbiz_jpg/hzxADjv06iarnSfxWPzthnn9KpemqnriaxjPHJjf8LasJichbp1IkJ8sRjheBy5akIpCxQAuJD8u12GNdgDLJpHibw/640?wx_fmt=jpeg" data-type="jpeg" data-w="171" data-width="100%" style="box-sizing: border-box; width: 100%; display: block" title="qrcode_for_gh_01c9e0a6d089_344.jpg" />
+											</section>
+											<section style="box-sizing: border-box; color: #a27f61">
+												<section style="display: inline-block">
+													<section style="display: flex; justify-content: flex-start; align-items: center; border-bottom: 1px solid rgb(171, 137, 107); box-sizing: border-box">
+														<section style="box-sizing: border-box; width: 10px; overflow: hidden">
+															<img referrerpolicy="no-referrer" data-ratio="1" src="https://mmbiz.qpic.cn/mmbiz_png/hzxADjv06iarnSfxWPzthnn9KpemqnriaxMthc1DhC3kL3TF1kq45gnQ19bicticrITDtiaKIwuogjLFhB4fQQZSLJQ/640?wx_fmt=png" data-type="png" data-w="17" data-width="100%" style="box-sizing: border-box; width: 100%; display: block" />
+														</section>
+														<section data-brushtype="text" style="font-size: 16px; color: #ab896b; text-indent: 0.2em; line-height: 1.8em; margin-left: 3px">扫码关注我们</section>
+													</section>
+													<section data-brushtype="text" style="font-size: 14px; color: #ab896b; text-indent: 0.2em; line-height: 1.8em; margin-top: 4px">
+														<section data-brushtype="text" style="margin-top: 4px; max-width: 100%; letter-spacing: 0.544px; text-indent: 0.2em; line-height: 1.8em; font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif; box-sizing: border-box !important; overflow-wrap: break-word !important">资源共享，互相学习、</section>
+														<section data-brushtype="text" hm_fix="289:409" style="max-width: 100%; letter-spacing: 0.544px; text-indent: 0.2em; line-height: 1.8em; font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif; box-sizing: border-box !important; overflow-wrap: break-word !important">求同存异，共同发展<span style="text-indent: 0.2em; caret-color: red; font-family: 微软雅黑, Arial, sans-serif">。</span></section>
+													</section>
+													<section style="box-sizing: border-box; width: 26px; overflow: hidden; float: right; margin-top: 0.2em">
+														<img referrerpolicy="no-referrer" data-ratio="0.41089108910891087" src="https://mmbiz.qpic.cn/mmbiz_gif/FIBZec7ucCiaOJv1xaGlYbnpgUyOXeX35h4VplHTjV7EHZam8F7iccGJDGuqbMZHrrHz6ljQoEmMWI0ic2CfkLkuA/640?wx_fmt=gif" data-type="gif" data-w="404" data-width="100%" style="box-sizing: border-box; width: 100%; display: block" />
+													</section>
+												</section>
+											</section>
+										</section>
+									</section>
+									<section style="display: flex; justify-content: space-between; align-items: flex-end">
+										<section style="box-sizing: border-box; width: 10px; height: 1px; background: rgb(171, 137, 107); overflow: hidden">
+											<br />
+										</section>
+										<section style="box-sizing: border-box; width: 10px; height: 1px; background: rgb(171, 137, 107); overflow: hidden">
+											<br />
+										</section>
+									</section>
+								</section>
+							</section>
+						</section>
+					</section>
+				</div>
+			</div>
+		</div>
+	</Container>
+</template>
