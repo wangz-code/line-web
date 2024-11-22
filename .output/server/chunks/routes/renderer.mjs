@@ -76,7 +76,7 @@ const unheadPlugins = true ? [CapoPlugin({ track: true })] : [];
 
 const renderSSRHeadOptions = {"omitLineBreaks":false};
 
-const appHead = {"meta":[{"name":"viewport","content":"width=device-width, initial-scale=1"},{"charset":"utf-8"},{"hid":"keywords","name":"keywords","content":"澜申科技"},{"hid":"description","name":"description","content":"澜申,科技,家居,智慧,软件"}],"link":[],"style":[],"script":[{"src":"/js/vendor/jquery.min.js"},{"src":"/js/vendor/popper.min.js"},{"src":"/js/vendor/bootstrap.min.js"},{"src":"/js/vendor/aos.js"},{"src":"/js/functions.js"}],"noscript":[],"title":"澜申科技"};
+const appHead = {"meta":[{"name":"viewport","content":"width=device-width, initial-scale=1"},{"name":"baidu-site-verification","content":"codeva-FU5jo0Eg9b"},{"name":"google-site-verification","content":"bSncYzoH2zCDkt1V8dYEK1Gn8ySab_1l313aY8qyVwo"},{"charset":"utf-8"},{"hid":"keywords","name":"keywords","content":"澜申科技"},{"hid":"description","name":"description","content":"澜申,科技,家居,智慧,软件"}],"link":[],"style":[],"script":[{"src":"/js/vendor/jquery.min.js"},{"src":"/js/vendor/popper.min.js"},{"src":"/js/vendor/bootstrap.min.js"},{"src":"/js/vendor/aos.js"},{"src":"/js/functions.js"}],"noscript":[],"title":"澜申科技"};
 
 const appRootTag = "div";
 

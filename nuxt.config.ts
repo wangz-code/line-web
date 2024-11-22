@@ -26,6 +26,14 @@ export default defineNuxtConfig({
 					content: "width=device-width, initial-scale=1",
 				},
 				{
+					name: "baidu-site-verification", // 百度站长 seo
+					content: "codeva-FU5jo0Eg9b",
+				},
+				{
+					name: "google-site-verification", // google seo
+					content: "bSncYzoH2zCDkt1V8dYEK1Gn8ySab_1l313aY8qyVwo",
+				},
+				{
 					charset: "utf-8",
 				},
 				{ hid: "keywords", name: "keywords", content: "澜申科技" },
