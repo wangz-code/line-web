@@ -1,8 +1,12 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
 	devtools: { enabled: true },
-	modules: ["@vueuse/nuxt"],
+	modules: ["@vueuse/nuxt", "@nuxtjs/sitemap", "@nuxtjs/robots"],
 	ssr: true,
+	site: {
+		url: "https://www.lineshen.com",
+		name: "上海澜申科技",
+	},
 	vite: {
 		css: {
 			preprocessorOptions: {

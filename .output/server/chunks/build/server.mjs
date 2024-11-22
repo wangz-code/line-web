@@ -1,18 +1,15 @@
 import { version, unref, inject, defineComponent, h, computed, ref, provide, shallowReactive, watch, Suspense, nextTick, Fragment, Transition, hasInjectionContext, getCurrentInstance, mergeProps, useSSRContext, createApp, effectScope, reactive, getCurrentScope, onErrorCaptured, onServerPrefetch, createVNode, resolveDynamicComponent, toRef, defineAsyncComponent, shallowRef, isReadonly, withCtx, isRef, isShallow, isReactive, toRaw } from 'vue';
-import { $ as $fetch, h as hasProtocol, i as isScriptProtocol, k as joinURL, w as withQuery, l as defu, s as sanitizeStatusCode, m as getContext, n as createHooks, c as createError$1, t as toRouteMatcher, o as createRouter$1 } from '../nitro/nitro.mjs';
-import { b as baseURL } from '../routes/renderer.mjs';
+import { $ as $fetch, i as baseURL, j as hasProtocol, k as isScriptProtocol, l as joinURL, w as withQuery, m as defu, s as sanitizeStatusCode, n as getContext, o as createHooks, c as createError$1, t as toRouteMatcher, q as createRouter$1 } from '../nitro/nitro.mjs';
 import { getActiveHead, CapoPlugin } from 'unhead';
-import { defineHeadPlugin } from '@unhead/shared';
+import { defineHeadPlugin, composableNames } from '@unhead/shared';
 import { useRoute as useRoute$1, RouterView, createMemoryHistory, createRouter, START_LOCATION } from 'vue-router';
 import { ssrRenderSuspense, ssrRenderComponent, ssrRenderVNode } from 'vue/server-renderer';
 import 'node:http';
 import 'node:https';
 import 'node:fs';
 import 'node:path';
+import 'consola/core';
 import 'node:url';
-import 'vue-bundle-renderer/runtime';
-import 'devalue';
-import '@unhead/ssr';
 
 if (!globalThis.$fetch) {
   globalThis.$fetch = $fetch.create({
@@ -411,6 +408,18 @@ function injectHead() {
     console.warn("Unhead is missing Vue context, falling back to shared context. This may have unexpected results.");
   return head || getActiveHead();
 }
+const coreComposableNames = [
+  "injectHead"
+];
+({
+  "@unhead/vue": [...coreComposableNames, ...composableNames]
+});
+function useServerHead(input, options = {}) {
+  const head = options.head || injectHead();
+  delete options.head;
+  if (head)
+    return head.push(input, { ...options, mode: "server" });
+}
 [CapoPlugin({ track: true })];
 const unhead_GCrDRWcczc = /* @__PURE__ */ defineNuxtPlugin({
   name: "nuxt:head",
@@ -577,248 +586,248 @@ const _routes = [
   {
     name: "about",
     path: "/about",
-    component: () => import('./index-DygA0G8w.mjs')
+    component: () => import('./index-DnuMSHgX.mjs')
   },
   {
     name: "article-hdzx-bayj",
     path: "/article/hdzx/bayj",
-    component: () => import('./bayj-CGD-mllr.mjs')
+    component: () => import('./bayj-CBNyDiMv.mjs')
   },
   {
     name: "article-hdzx-dlkj",
     path: "/article/hdzx/dlkj",
-    component: () => import('./dlkj-qjMTF57e.mjs')
+    component: () => import('./dlkj-Cx29Qm_N.mjs')
   },
   {
     name: "article-hdzx-gc",
     path: "/article/hdzx/gc",
-    component: () => import('./gc-yVF5KLrC.mjs')
+    component: () => import('./gc-C1MNLqTd.mjs')
   },
   {
     name: "article-hdzx-gdx",
     path: "/article/hdzx/gdx",
-    component: () => import('./gdx-DAT5PjuN.mjs')
+    component: () => import('./gdx-D-k_eKMq.mjs')
   },
   {
     name: "article-hdzx-gj",
     path: "/article/hdzx/gj",
-    component: () => import('./gj-Mb_5zeur.mjs')
+    component: () => import('./gj-qiPQjgMy.mjs')
   },
   {
     name: "article-hdzx-hdx",
     path: "/article/hdzx/hdx",
-    component: () => import('./hdx-DFVBYWAV.mjs')
+    component: () => import('./hdx-hDji_48y.mjs')
   },
   {
     name: "article-hdzx-hj",
     path: "/article/hdzx/hj",
-    component: () => import('./hj-D6O6Abj1.mjs')
+    component: () => import('./hj-bELV4Nz-.mjs')
   },
   {
     name: "article-hdzx-jxs",
     path: "/article/hdzx/jxs",
-    component: () => import('./jxs-DliZcCaa.mjs')
+    component: () => import('./jxs-BaxL2S5E.mjs')
   },
   {
     name: "article-hdzx-mh",
     path: "/article/hdzx/mh",
-    component: () => import('./mh-jWToqipR.mjs')
+    component: () => import('./mh-Bm3quu7i.mjs')
   },
   {
     name: "article-hdzx-mhkg",
     path: "/article/hdzx/mhkg",
-    component: () => import('./mhkg-BU1FlrYI.mjs')
+    component: () => import('./mhkg-Cym6CqCQ.mjs')
   },
   {
     name: "article-hdzx-ms",
     path: "/article/hdzx/ms",
-    component: () => import('./ms-fLkN7bYD.mjs')
+    component: () => import('./ms-CBx_8iDe.mjs')
   },
   {
     name: "article-hdzx-szjj",
     path: "/article/hdzx/szjj",
-    component: () => import('./szjj-DY8G7gI7.mjs')
+    component: () => import('./szjj-Dj_x8ksU.mjs')
   },
   {
     name: "article-hdzx-szjjxh",
     path: "/article/hdzx/szjjxh",
-    component: () => import('./szjjxh-C2BPy3LU.mjs')
+    component: () => import('./szjjxh-BmxztGHN.mjs')
   },
   {
     name: "article-hdzx-szzh",
     path: "/article/hdzx/szzh",
-    component: () => import('./szzh-DAmRWxR4.mjs')
+    component: () => import('./szzh-BTuliegb.mjs')
   },
   {
     name: "article-hdzx-xlm",
     path: "/article/hdzx/xlm",
-    component: () => import('./xlm-Cf_RdlLU.mjs')
+    component: () => import('./xlm-Cba4VO-V.mjs')
   },
   {
     name: "article-hdzx-zjx",
     path: "/article/hdzx/zjx",
-    component: () => import('./zjx-CxFN_JSD.mjs')
+    component: () => import('./zjx-Cpf_5Vft.mjs')
   },
   {
     name: "article-hygd-digitalconstruction",
     path: "/article/hygd/digitalconstruction",
-    component: () => import('./digitalconstruction-D-PjKGvH.mjs')
+    component: () => import('./digitalconstruction-BIlW5yei.mjs')
   },
   {
     name: "article-hygd-digitalization",
     path: "/article/hygd/digitalization",
-    component: () => import('./digitalization-D8yXyt9-.mjs')
+    component: () => import('./digitalization-Tu_vdl-j.mjs')
   },
   {
     name: "article-hygd-prevent",
     path: "/article/hygd/prevent",
-    component: () => import('./prevent-DQrpge7t.mjs')
+    component: () => import('./prevent-BRJ_ga2c.mjs')
   },
   {
     name: "article-hygd-survey",
     path: "/article/hygd/survey",
-    component: () => import('./survey-NO9IpSsG.mjs')
+    component: () => import('./survey-aC65GVUe.mjs')
   },
   {
     name: "article-hygd-threecash",
     path: "/article/hygd/threecash",
-    component: () => import('./threecash-bStTjHab.mjs')
+    component: () => import('./threecash-Bk3abkpe.mjs')
   },
   {
     name: "article-hygd-unicash",
     path: "/article/hygd/unicash",
-    component: () => import('./unicash-WGYanCGG.mjs')
+    component: () => import('./unicash-COGVWU7W.mjs')
   },
   {
     name: "article-hygd-whyunicashier",
     path: "/article/hygd/whyunicashier",
-    component: () => import('./whyunicashier-_4Dlrs1a.mjs')
+    component: () => import('./whyunicashier-C6MwMxtC.mjs')
   },
   {
     name: "article-khjz-dy_ye",
     path: "/article/khjz/dy_ye",
-    component: () => import('./dy_ye-BS1jqVeN.mjs')
+    component: () => import('./dy_ye-DtwglRHs.mjs')
   },
   {
     name: "article-khjz-faj_ly",
     path: "/article/khjz/faj_ly",
-    component: () => import('./faj_ly-CY-heH3v.mjs')
+    component: () => import('./faj_ly-BXKJynfw.mjs')
   },
   {
     name: "article-khjz-faj_nn",
     path: "/article/khjz/faj_nn",
-    component: () => import('./faj_nn-FP4UCHT9.mjs')
+    component: () => import('./faj_nn-5h4QsHuW.mjs')
   },
   {
     name: "article-khjz-faj_qd",
     path: "/article/khjz/faj_qd",
-    component: () => import('./faj_qd-CRDyqlTZ.mjs')
+    component: () => import('./faj_qd-CPGTYyn4.mjs')
   },
   {
     name: "article-khjz-hc",
     path: "/article/khjz/hc",
-    component: () => import('./hc-Cy983oDv.mjs')
+    component: () => import('./hc-BQrUjzd6.mjs')
   },
   {
     name: "article-khjz-hd",
     path: "/article/khjz/hd",
-    component: () => import('./hd-BCXIhRRU.mjs')
+    component: () => import('./hd-RXOLyNA3.mjs')
   },
   {
     name: "article-khjz-hx",
     path: "/article/khjz/hx",
-    component: () => import('./hx-BsEwP81c.mjs')
+    component: () => import('./hx-BpYHpmrZ.mjs')
   },
   {
     name: "article-khjz-jhgj",
     path: "/article/khjz/jhgj",
-    component: () => import('./jhgj-MGVFbW6j.mjs')
+    component: () => import('./jhgj-XejVDNQF.mjs')
   },
   {
     name: "article-khjz-jhlt",
     path: "/article/khjz/jhlt",
-    component: () => import('./jhlt-CtXF34B9.mjs')
+    component: () => import('./jhlt-BxRujRYd.mjs')
   },
   {
     name: "article-khjz-jswb",
     path: "/article/khjz/jswb",
-    component: () => import('./jswb-BsSaGQXl.mjs')
+    component: () => import('./jswb-nZaJbSSy.mjs')
   },
   {
     name: "article-khjz-tsqn",
     path: "/article/khjz/tsqn",
-    component: () => import('./tsqn-BMbwFaoS.mjs')
+    component: () => import('./tsqn-DeFneYNT.mjs')
   },
   {
     name: "article-khjz-wtl",
     path: "/article/khjz/wtl",
-    component: () => import('./wtl-DYRNMwVd.mjs')
+    component: () => import('./wtl-Bn9RCJga.mjs')
   },
   {
     name: "article-khjz-yz",
     path: "/article/khjz/yz",
-    component: () => import('./yz-BSToStE1.mjs')
+    component: () => import('./yz-CuMWCg1G.mjs')
   },
   {
     name: "article-khjz-zmz",
     path: "/article/khjz/zmz",
-    component: () => import('./zmz-DWhxcYaA.mjs')
+    component: () => import('./zmz-DmRs56P4.mjs')
   },
   {
     name: "index",
     path: "/",
-    component: () => import('./index-Dk1FbOON.mjs')
+    component: () => import('./index-Dn7efUfy.mjs')
   },
   {
     name: "product-htb",
     path: "/product/htb",
-    component: () => import('./index-Bu0mZRN2.mjs')
+    component: () => import('./index-DnERsG8e.mjs')
   },
   {
     name: "product-hyb",
     path: "/product/hyb",
-    component: () => import('./index-CAflEMdX.mjs')
+    component: () => import('./index-Bqa4yI7o.mjs')
   },
   {
     name: "product-jsc",
     path: "/product/jsc",
-    component: () => import('./index-CrUpz2yu.mjs')
+    component: () => import('./index-CbbLDKL1.mjs')
   },
   {
     name: "product-pjb",
     path: "/product/pjb",
-    component: () => import('./index-DwNtzbdn.mjs')
+    component: () => import('./index-Bcu5yh-t.mjs')
   },
   {
     name: "product-sdb",
     path: "/product/sdb",
-    component: () => import('./index-BQtMpNK2.mjs')
+    component: () => import('./index-EZNX5NlS.mjs')
   },
   {
     name: "product-sjdp",
     path: "/product/sjdp",
-    component: () => import('./index-z0kx2t94.mjs')
+    component: () => import('./index-BRtdc94w.mjs')
   },
   {
     name: "product-syb",
     path: "/product/syb",
-    component: () => import('./index-1XbRgC0r.mjs')
+    component: () => import('./index-CyOHMjIb.mjs')
   },
   {
     name: "product-yyb",
     path: "/product/yyb",
-    component: () => import('./index-DI0kNSkc.mjs')
+    component: () => import('./index-BDA1gZqd.mjs')
   },
   {
     name: "user-add",
     path: "/user/add",
     meta: __nuxt_page_meta || {},
-    component: () => import('./add-V8JLh6h6.mjs')
+    component: () => import('./add-DcKJuPvB.mjs')
   },
   {
     name: "user",
     path: "/user",
-    component: () => import('./index-lEDHYEiH.mjs')
+    component: () => import('./index-D2oqRieP.mjs')
   }
 ];
 const _wrapIf = (component, props, slots) => {
@@ -1134,11 +1143,64 @@ const plugin = /* @__PURE__ */ defineNuxtPlugin({
     return { provide: { router } };
   }
 });
+const useStateKeyPrefix = "$s";
+function useState(...args) {
+  const autoKey = typeof args[args.length - 1] === "string" ? args.pop() : void 0;
+  if (typeof args[0] !== "string") {
+    args.unshift(autoKey);
+  }
+  const [_key, init] = args;
+  if (!_key || typeof _key !== "string") {
+    throw new TypeError("[nuxt] [useState] key must be a string: " + _key);
+  }
+  if (init !== void 0 && typeof init !== "function") {
+    throw new Error("[nuxt] [useState] init must be a function: " + init);
+  }
+  const key = useStateKeyPrefix + _key;
+  const nuxtApp = useNuxtApp();
+  const state = toRef(nuxtApp.payload.state, key);
+  if (state.value === void 0 && init) {
+    const initialValue = init();
+    if (isRef(initialValue)) {
+      nuxtApp.payload.state[key] = initialValue;
+      return initialValue;
+    }
+    state.value = initialValue;
+  }
+  return state;
+}
+function useRequestEvent(nuxtApp = useNuxtApp()) {
+  var _a;
+  return (_a = nuxtApp.ssrContext) == null ? void 0 : _a.event;
+}
 function definePayloadReducer(name, reduce) {
   {
     useNuxtApp().ssrContext._payloadReducers[name] = reduce;
   }
 }
+const _0_siteConfig_OrwN9KenLh = /* @__PURE__ */ defineNuxtPlugin({
+  name: "nuxt-site-config:init",
+  enforce: "pre",
+  async setup(nuxtApp) {
+    var _a;
+    const state = useState("site-config");
+    {
+      const context = (_a = useRequestEvent()) == null ? void 0 : _a.context;
+      nuxtApp.hooks.hook("app:rendered", () => {
+        state.value = context == null ? void 0 : context.siteConfig.get({
+          debug: (/* @__PURE__ */ useRuntimeConfig())["nuxt-site-config"].debug,
+          resolveRefs: true
+        });
+      });
+    }
+    let stack = {};
+    return {
+      provide: {
+        nuxtSiteConfig: stack
+      }
+    };
+  }
+});
 const reducers = [
   ["NuxtError", (data) => isNuxtError(data) && data.toJSON()],
   ["EmptyShallowRef", (data) => isRef(data) && isShallow(data) && !data.value && (typeof data.value === "bigint" ? "0n" : JSON.stringify(data.value) || "_")],
@@ -1159,15 +1221,39 @@ const revive_payload_server_8O5f57Tozv = /* @__PURE__ */ defineNuxtPlugin({
 const components_plugin_KR1HBZs4kY = /* @__PURE__ */ defineNuxtPlugin({
   name: "nuxt:global-components"
 });
+const robot_meta_server_9wzAxKfx3B = /* @__PURE__ */ defineNuxtPlugin({
+  setup() {
+    var _a;
+    const event = useRequestEvent();
+    const ctx = (_a = event == null ? void 0 : event.context) == null ? void 0 : _a.robots;
+    if (!ctx)
+      return;
+    const config = /* @__PURE__ */ useRuntimeConfig();
+    useServerHead({
+      meta: [
+        {
+          "name": "robots",
+          "content": () => ctx.rule || "",
+          "data-hint": () => {
+            var _a2, _b;
+            return ((_a2 = config["nuxt-robots"]) == null ? void 0 : _a2.debug) ? (_b = ctx.debug) == null ? void 0 : _b.source : void 0;
+          }
+        }
+      ]
+    });
+  }
+});
 const plugins = [
   unhead_GCrDRWcczc,
   plugin,
+  _0_siteConfig_OrwN9KenLh,
   revive_payload_server_8O5f57Tozv,
-  components_plugin_KR1HBZs4kY
+  components_plugin_KR1HBZs4kY,
+  robot_meta_server_9wzAxKfx3B
 ];
 const layouts = {
-  base: () => import('./base-CihVVN7G.mjs'),
-  default: () => import('./default-Cxfq6Yop.mjs')
+  base: () => import('./base-BlDpLCNi.mjs'),
+  default: () => import('./default-a2abrAzy.mjs')
 };
 const LayoutLoader = defineComponent({
   name: "LayoutLoader",
@@ -1462,8 +1548,8 @@ const _sfc_main$1 = {
     const statusMessage = _error.statusMessage ?? (is404 ? "Page Not Found" : "Internal Server Error");
     const description = _error.message || _error.toString();
     const stack = void 0;
-    const _Error404 = defineAsyncComponent(() => import('./error-404-BO6WXZeG.mjs'));
-    const _Error = defineAsyncComponent(() => import('./error-500-CYzkSoyI.mjs'));
+    const _Error404 = defineAsyncComponent(() => import('./error-404-Xazvk6E9.mjs'));
+    const _Error = defineAsyncComponent(() => import('./error-500-DhgGwZYI.mjs'));
     const ErrorTemplate = is404 ? _Error404 : _Error;
     return (_ctx, _push, _parent, _attrs) => {
       _push(ssrRenderComponent(unref(ErrorTemplate), mergeProps({ statusCode: unref(statusCode), statusMessage: unref(statusMessage), description: unref(description), stack: unref(stack) }, _attrs), null, _parent));
