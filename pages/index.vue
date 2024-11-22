@@ -108,8 +108,8 @@
 											<h6>{{ item.title }}</h6>
 										</div>
 										<div class="row">
-											<div class="col">{{ item.class }}</div>
-											<div class="col">{{ item.time }}</div>
+											<div class="col-sm-12 col-md-6">{{ item.class }}</div>
+											<div class="col-sm-12 col-md-6">{{ item.time }}</div>
 										</div>
 									</div>
 								</div>

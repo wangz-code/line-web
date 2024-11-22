@@ -1,0 +1,4 @@
+const index_vue_vue_type_style_index_0_scoped_4ba39185_lang = ".my-nav-tab li[data-v-4ba39185]:hover{border-bottom:4px solid #00a664;margin-bottom:-4px}.my-nav-tab[data-v-4ba39185]{display:flex;flex-direction:unset;justify-content:center}.gd-title[data-v-4ba39185]{height:4em;overflow:hidden;text-overflow:ellipsis;width:-moz-fit-content;width:fit-content}.store img[data-v-4ba39185]{padding:10px;width:100%}.b-stroe[data-v-4ba39185]{border:1px dashed #c9c9c9}.b-bank[data-v-4ba39185]{border:1px solid #92bfff}@media (max-width:576px){.col-xs-6[data-v-4ba39185]{flex:0 0 50%;max-width:50%}.xs-100[data-v-4ba39185]{display:block;width:100%}.xs-title[data-v-4ba39185]{font-size:3rem}}";
+
+export { index_vue_vue_type_style_index_0_scoped_4ba39185_lang as i };
+//# sourceMappingURL=index-styles-1.mjs-2g2yJXBo.mjs.map

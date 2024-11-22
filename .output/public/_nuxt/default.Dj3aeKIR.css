@@ -1,0 +1,1 @@
+html{scroll-behavior:smooth}@keyframes beat-scale{0%{opacity:1;transform:scale(.7)}to{opacity:0;transform:scale(1.2)}}.phone-ani{animation:beat-scale 2s linear infinite;transform-origin:55% 50%}.foot{margin-top:-1px}#Layer_bottom{bottom:0;height:100%;left:0;position:relative;right:0;top:0;width:100%}
