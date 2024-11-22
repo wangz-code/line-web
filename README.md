@@ -1,7 +1,7 @@
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
+部署需要在 .output/server 执行 `npm install` 否则模块会缺失报错
 ## Setup
 
 Make sure to install the dependencies:

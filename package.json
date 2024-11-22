@@ -8,7 +8,7 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "pre": "PORT=4000 node .output/server/index.mjs "
+    "pre": "PORT=7990 node .output/server/index.mjs "
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
